@@ -8,14 +8,7 @@
         vid='media/',
         js='js/',
         fonts = {
-            'Roboto': '<script type=\"text/javascript\">  WebFontConfig = {    google: { families: [ \'Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic:latin,cyrillic\' ] }  };  (function() {    var wf = document.createElement(\'script\');    wf.src = (\'https:\' == document.location.protocol ? \'https\' : \'http\') +      \'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js\';    wf.type = \'text/javascript\';    wf.async = \'true\';    var s = document.getElementsByTagName(\'script\')[0];    s.parentNode.insertBefore(wf, s);  })(); </script>',
-            'Roboto': '<script type="text/javascript">  WebFontConfig = {    google: { families: [ \'Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic:latin,cyrillic\' ] }  };  (function() {    var wf = document.createElement(\'script\');    wf.src = (\'https:\' == document.location.protocol ? \'https\' : \'http\') +      \'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js\';    wf.type = \'text/javascript\';    wf.async = \'true\';    var s = document.getElementsByTagName(\'script\')[0];    s.parentNode.insertBefore(wf, s);  })(); </script>',
-            'Roboto': '<script type="text/javascript">  WebFontConfig = {    google: { families: [ \'Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic:latin,cyrillic\' ] }  };  (function() {    var wf = document.createElement(\'script\');    wf.src = (\'https:\' == document.location.protocol ? \'https\' : \'http\') +      \'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js\';    wf.type = \'text/javascript\';    wf.async = \'true\';    var s = document.getElementsByTagName(\'script\')[0];    s.parentNode.insertBefore(wf, s);  })(); </script>',
-            'Roboto': '<script type="text/javascript">  WebFontConfig = {    google: { families: [ \'Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic:latin,cyrillic\' ] }  };  (function() {    var wf = document.createElement(\'script\');    wf.src = (\'https:\' == document.location.protocol ? \'https\' : \'http\') +      \'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js\';    wf.type = \'text/javascript\';    wf.async = \'true\';    var s = document.getElementsByTagName(\'script\')[0];    s.parentNode.insertBefore(wf, s);  })(); </script>',
-            'Roboto': '<script type="text/javascript">  WebFontConfig = {    google: { families: [ \'Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic:latin,cyrillic\' ] }  };  (function() {    var wf = document.createElement(\'script\');    wf.src = (\'https:\' == document.location.protocol ? \'https\' : \'http\') +      \'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js\';    wf.type = \'text/javascript\';    wf.async = \'true\';    var s = document.getElementsByTagName(\'script\')[0];    s.parentNode.insertBefore(wf, s);  })(); </script>',
-            'Roboto': '<script type="text/javascript">  WebFontConfig = {    google: { families: [ \'Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic:latin,cyrillic\' ] }  };  (function() {    var wf = document.createElement(\'script\');    wf.src = (\'https:\' == document.location.protocol ? \'https\' : \'http\') +      \'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js\';    wf.type = \'text/javascript\';    wf.async = \'true\';    var s = document.getElementsByTagName(\'script\')[0];    s.parentNode.insertBefore(wf, s);  })(); </script>',
-            'Roboto': '<script type="text/javascript">  WebFontConfig = {    google: { families: [ \'Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic:latin,cyrillic\' ] }  };  (function() {    var wf = document.createElement(\'script\');    wf.src = (\'https:\' == document.location.protocol ? \'https\' : \'http\') +      \'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js\';    wf.type = \'text/javascript\';    wf.async = \'true\';    var s = document.getElementsByTagName(\'script\')[0];    s.parentNode.insertBefore(wf, s);  })(); </script>',
-            'Roboto': '<script type="text/javascript">  WebFontConfig = {    google: { families: [ \'Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic:latin,cyrillic\' ] }  };  (function() {    var wf = document.createElement(\'script\');    wf.src = (\'https:\' == document.location.protocol ? \'https\' : \'http\') +      \'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js\';    wf.type = \'text/javascript\';    wf.async = \'true\';    var s = document.getElementsByTagName(\'script\')[0];    s.parentNode.insertBefore(wf, s);  })(); </script>'        },
+            'Roboto': '<script type=\"text/javascript\">  WebFontConfig = {    google: { families: [ \'Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic:latin,cyrillic\' ] }  };  (function() {    var wf = document.createElement(\'script\');    wf.src = (\'https:\' == document.location.protocol ? \'https\' : \'http\') +      \'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js\';    wf.type = \'text/javascript\';    wf.async = \'true\';    var s = document.getElementsByTagName(\'script\')[0];    s.parentNode.insertBefore(wf, s);  })(); </script>'        },
         opts = {
             'gAudioPreloadPreference': 'auto',
             'gVideoPreloadPreference': 'auto'
@@ -122,29 +115,26 @@
                         {
                             id: 'text',
                             type: 'text',
-                            rect: ['437px', '518px', '682px', '29px', 'auto', 'auto'],
+                            rect: ['869px', '550px', '272px', '38px', 'auto', 'auto'],
                             opacity: '0',
-                            text: "<p style=\"margin: 0px; font-weight: 200;\">Изтегли проекта от &nbsp; &nbsp; &nbsp; &nbsp;.</p>",
-                            align: "right",
+                            text: "<p style=\"margin: 0px; text-align: justify;\"><span style=\"font-weight: 300;\">&nbsp; Изтегли проекта от &nbsp; &nbsp; &nbsp; .</span></p>",
+                            align: "justify",
                             font: ['Roboto', [22, "px"], "rgba(54,74,95,1.00)", "400", "none", "normal", "break-word", "normal"],
                             textStyle: ["", "", "", "", "none"]
                         },
                         {
-                            id: 'link',
-                            type: 'text',
-                            rect: ['1080px', '518px', '34px', '29px', 'auto', 'auto'],
-                            opacity: '0',
-                            text: "<p style=\"margin: 0px; font-weight: 200;\"><span style=\"font-weight: 300;\">тук</span></p>",
-                            align: "right",
-                            font: ['Roboto', [22, "px"], "rgba(54,74,95,1.00)", "500", "none", "normal", "break-word", "normal"],
-                            textStyle: ["", "", "", "", "none"]
+                            id: 'download_button',
+                            symbolName: 'download_button',
+                            type: 'rect',
+                            rect: ['1083px', '550px', '40', '31', 'auto', 'auto'],
+                            cursor: 'pointer'
                         },
                         {
                             id: 'game_text',
                             type: 'text',
                             rect: ['437px', '213px', '682px', '277px', 'auto', 'auto'],
                             opacity: '0',
-                            text: "<p style=\"margin: 0px; text-align: justify;\">&nbsp; При стартирането на играта се показва околната среда или къде ще се развиват ситуациите. Играта се състои от 4 въпроса и всеки въпрос има по 3 възможни отговора. При посочване на един от отговорите може да се види дали е правилен. Отговорите на всеки въпрос са представени под формата на картинка и бутон за пояснение. Над въпросите има лента, която показва на потребителя докъде е стигнал.</p><p style=\"margin: 0px; text-align: justify;\">​</p><p style=\"margin: 0px; text-align: justify;\">&nbsp; Целта на играта е децата да се запознаят с опасните ситуации и да се научат да реагират адекватно. Потребителят да възприема бедствието чрез различни сетива. Да развива своята бдителност и внимание, спазва указания и инструкции и др.</p>",
+                            text: "<p style=\"margin: 0px; text-align: justify;\">&nbsp; При стартирането на играта се показва околната среда или къде ще се развиват ситуациите. Играта се състои от 4 въпроса и всеки въпрос има по 3 възможни отговора. При посочване на един от отговорите може да се види дли е правилен. Отговорите на всеки въпрос са представени под формата на картинка и бутон за пояснение. Над въпросите има лента, която показва на потребителя докъде е стигнал.</p><p style=\"margin: 0px; text-align: justify;\">​</p><p style=\"margin: 0px; text-align: justify;\">&nbsp; Целта на играта е децата да опознаят опасните ситуации и да се научат да реагират адекватно. Потребителят да възприема бедствието чрез различни сетива. Да развива своята бдителност и внимание, спазва указания и инструкции и др.</p>",
                             align: "justify",
                             font: ['Roboto', [22, "px"], "rgba(54,74,95,1.00)", "200", "none", "normal", "break-word", "normal"],
                             textStyle: ["", "", "", "", "none"]
@@ -154,7 +144,7 @@
                             type: 'text',
                             rect: ['437px', '213px', '682px', '277px', 'auto', 'auto'],
                             opacity: '0',
-                            text: "<p style=\"margin: 0px; text-align: justify;\">&nbsp;Секцията \"За мен\" съдържа информация за човека, който е разработил проекта. Оттам потребителят може да се свърже с мен чрез Skype, E-mail или Facebook, за да предложи нови идеи, свързани с проекта, препоръки или да сподели мнение. Това е път за усъвършенстване и надграждане на проекта.</p>",
+                            text: "<p style=\"margin: 0px; text-align: justify;\">&nbsp;Секцията \"За мен\" съдържа информация за човека, който е разработил проекта. Оттам потребителят може да се свърже с мен чрез Skype, E-mail или Facebook, за да предложи нови идеи, свързани с проекта, препоръки или да споделим мнение. Това е път за усъвършенстване и надграждане на проекта.</p>",
                             align: "justify",
                             font: ['Roboto', [22, "px"], "rgba(54,74,95,1.00)", "200", "none", "normal", "break-word", "normal"],
                             textStyle: ["", "", "", "", "none"]
@@ -206,86 +196,6 @@
                     },
                     data: [
                         [
-                            "eid1295",
-                            "opacity",
-                            0,
-                            0,
-                            "linear",
-                            "${for_me}",
-                            '0',
-                            '0'
-                        ],
-                        [
-                            "eid1296",
-                            "opacity",
-                            2000,
-                            0,
-                            "linear",
-                            "${for_me}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid1281",
-                            "opacity",
-                            0,
-                            0,
-                            "linear",
-                            "${for_project}",
-                            '1',
-                            '1'
-                        ],
-                        [
-                            "eid1282",
-                            "opacity",
-                            1000,
-                            0,
-                            "linear",
-                            "${for_project}",
-                            '1',
-                            '0'
-                        ],
-                        [
-                            "eid1318",
-                            "opacity",
-                            0,
-                            0,
-                            "linear",
-                            "${text}",
-                            '1',
-                            '1'
-                        ],
-                        [
-                            "eid1319",
-                            "opacity",
-                            1000,
-                            0,
-                            "linear",
-                            "${text}",
-                            '1',
-                            '0'
-                        ],
-                        [
-                            "eid1320",
-                            "opacity",
-                            0,
-                            0,
-                            "linear",
-                            "${link}",
-                            '1',
-                            '1'
-                        ],
-                        [
-                            "eid1321",
-                            "opacity",
-                            1000,
-                            0,
-                            "linear",
-                            "${link}",
-                            '1',
-                            '0'
-                        ],
-                        [
                             "eid1283",
                             "opacity",
                             0,
@@ -314,6 +224,86 @@
                             "${game_text}",
                             '1',
                             '0'
+                        ],
+                        [
+                            "eid1281",
+                            "opacity",
+                            0,
+                            0,
+                            "linear",
+                            "${for_project}",
+                            '1',
+                            '1'
+                        ],
+                        [
+                            "eid1282",
+                            "opacity",
+                            1000,
+                            0,
+                            "linear",
+                            "${for_project}",
+                            '1',
+                            '0'
+                        ],
+                        [
+                            "eid1320",
+                            "opacity",
+                            0,
+                            0,
+                            "linear",
+                            "${text}",
+                            '1',
+                            '1'
+                        ],
+                        [
+                            "eid1321",
+                            "opacity",
+                            1000,
+                            0,
+                            "linear",
+                            "${text}",
+                            '1',
+                            '0'
+                        ],
+                        [
+                            "eid1295",
+                            "opacity",
+                            0,
+                            0,
+                            "linear",
+                            "${for_me}",
+                            '0',
+                            '0'
+                        ],
+                        [
+                            "eid1296",
+                            "opacity",
+                            2000,
+                            0,
+                            "linear",
+                            "${for_me}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid1323",
+                            "left",
+                            0,
+                            0,
+                            "linear",
+                            "${download_button}",
+                            '1083px',
+                            '1083px'
+                        ],
+                        [
+                            "eid1322",
+                            "left",
+                            1000,
+                            0,
+                            "linear",
+                            "${download_button}",
+                            '1083px',
+                            '-128px'
                         ]
                     ]
                 }
@@ -328,17 +318,17 @@
                 content: {
                     dom: [
                         {
-                            rect: ['0px', '0px', '285px', '70px', 'auto', 'auto'],
-                            id: '_1',
                             userClass: '',
+                            id: '_1',
                             type: 'image',
+                            rect: ['0px', '0px', '285px', '70px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/1.png', '0px', '0px']
                         },
                         {
                             id: 'hotspot',
                             rect: ['0px', '0px', '285', '70', 'auto', 'auto'],
-                            symbolName: 'hotspot',
-                            type: 'rect'
+                            type: 'rect',
+                            symbolName: 'hotspot'
                         }
                     ],
                     style: {
@@ -356,26 +346,6 @@
                     },
                     data: [
                         [
-                            "eid204",
-                            "left",
-                            0,
-                            250,
-                            "linear",
-                            "${hotspot}",
-                            '0px',
-                            '210px'
-                        ],
-                        [
-                            "eid207",
-                            "left",
-                            1000,
-                            250,
-                            "linear",
-                            "${hotspot}",
-                            '210px',
-                            '0px'
-                        ],
-                        [
                             "eid33",
                             "left",
                             0,
@@ -392,6 +362,26 @@
                             250,
                             "linear",
                             "${_1}",
+                            '210px',
+                            '0px'
+                        ],
+                        [
+                            "eid204",
+                            "left",
+                            0,
+                            250,
+                            "linear",
+                            "${hotspot}",
+                            '0px',
+                            '210px'
+                        ],
+                        [
+                            "eid207",
+                            "left",
+                            1000,
+                            250,
+                            "linear",
+                            "${hotspot}",
                             '210px',
                             '0px'
                         ]
@@ -416,8 +406,8 @@
                         {
                             id: 'hotspot',
                             type: 'rect',
-                            symbolName: 'hotspot',
-                            rect: ['0px', '0', '285', '70', 'auto', 'auto']
+                            rect: ['0px', '0', '285', '70', 'auto', 'auto'],
+                            symbolName: 'hotspot'
                         }
                     ],
                     style: {
@@ -495,8 +485,8 @@
                         {
                             id: 'hotspot',
                             type: 'rect',
-                            symbolName: 'hotspot',
-                            rect: ['0px', '0', '285', '70', 'auto', 'auto']
+                            rect: ['0px', '0', '285', '70', 'auto', 'auto'],
+                            symbolName: 'hotspot'
                         }
                     ],
                     style: {
@@ -514,26 +504,6 @@
                     },
                     data: [
                         [
-                            "eid210",
-                            "left",
-                            0,
-                            250,
-                            "linear",
-                            "${hotspot}",
-                            '0px',
-                            '210px'
-                        ],
-                        [
-                            "eid211",
-                            "left",
-                            1000,
-                            250,
-                            "linear",
-                            "${hotspot}",
-                            '210px',
-                            '0px'
-                        ],
-                        [
                             "eid94",
                             "left",
                             0,
@@ -550,6 +520,26 @@
                             250,
                             "linear",
                             "${_3}",
+                            '210px',
+                            '0px'
+                        ],
+                        [
+                            "eid210",
+                            "left",
+                            0,
+                            250,
+                            "linear",
+                            "${hotspot}",
+                            '0px',
+                            '210px'
+                        ],
+                        [
+                            "eid211",
+                            "left",
+                            1000,
+                            250,
+                            "linear",
+                            "${hotspot}",
                             '210px',
                             '0px'
                         ]
@@ -574,8 +564,8 @@
                         {
                             id: 'hotspot',
                             type: 'rect',
-                            symbolName: 'hotspot',
-                            rect: ['0px', '0', '285', '70', 'auto', 'auto']
+                            rect: ['0px', '0', '285', '70', 'auto', 'auto'],
+                            symbolName: 'hotspot'
                         }
                     ],
                     style: {
@@ -593,26 +583,6 @@
                     },
                     data: [
                         [
-                            "eid212",
-                            "left",
-                            0,
-                            250,
-                            "linear",
-                            "${hotspot}",
-                            '0px',
-                            '210px'
-                        ],
-                        [
-                            "eid213",
-                            "left",
-                            1000,
-                            250,
-                            "linear",
-                            "${hotspot}",
-                            '210px',
-                            '0px'
-                        ],
-                        [
                             "eid107",
                             "left",
                             0,
@@ -629,6 +599,26 @@
                             250,
                             "linear",
                             "${_4}",
+                            '210px',
+                            '0px'
+                        ],
+                        [
+                            "eid212",
+                            "left",
+                            0,
+                            250,
+                            "linear",
+                            "${hotspot}",
+                            '0px',
+                            '210px'
+                        ],
+                        [
+                            "eid213",
+                            "left",
+                            1000,
+                            250,
+                            "linear",
+                            "${hotspot}",
                             '210px',
                             '0px'
                         ]
@@ -653,8 +643,8 @@
                         {
                             id: 'hotspot',
                             type: 'rect',
-                            symbolName: 'hotspot',
-                            rect: ['0px', '0', '285', '70', 'auto', 'auto']
+                            rect: ['0px', '0', '285', '70', 'auto', 'auto'],
+                            symbolName: 'hotspot'
                         }
                     ],
                     style: {
@@ -725,24 +715,24 @@
                     dom: [
                         {
                             rect: ['-43px', '-22px', '220px', '70px', 'auto', 'auto'],
-                            opacity: '0',
-                            id: 'Rectangle',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                            id: 'Rectangle',
+                            opacity: '0',
                             type: 'rect',
                             fill: ['rgba(65,161,195,1.00)']
                         },
                         {
-                            rect: ['-16px', '-1px', '166px', '27px', 'auto', 'auto'],
                             font: ['Roboto', [22, 'px'], 'rgba(0,0,0,1)', '400', 'none', 'normal', 'break-word', 'normal'],
-                            align: 'center',
+                            type: 'text',
+                            text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">ЗА ПРОЕКТА</span></p>',
                             id: 'Text6',
                             textStyle: ['', '', '', '', 'none'],
-                            text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">ЗА ПРОЕКТА</span></p>',
-                            type: 'text'
+                            align: 'center',
+                            rect: ['-16px', '-1px', '166px', '27px', 'auto', 'auto']
                         },
                         {
-                            type: 'rect',
                             rect: ['-43px', '-22px', '220px', '70px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -797,24 +787,24 @@
                     dom: [
                         {
                             rect: ['-32px', '-22px', '198px', '70px', 'auto', 'auto'],
-                            stroke: [0, 'rgb(0, 0, 0)', 'none'],
-                            id: 'Rectangle',
                             opacity: '0',
+                            id: 'Rectangle',
+                            stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             type: 'rect',
                             fill: ['rgba(65,161,195,1.00)']
                         },
                         {
-                            type: 'text',
                             rect: ['-16px', '-1px', '166px', '27px', 'auto', 'auto'],
-                            text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">СЕРТИФИКАТИ</span></p>',
-                            id: 'Text6Copy',
-                            textStyle: ['', '', '', '', 'none'],
+                            font: ['Arial, Helvetica, sans-serif', [22, 'px'], 'rgba(0,0,0,1)', '400', 'none', 'normal', 'break-word', 'normal'],
                             align: 'center',
-                            font: ['Arial, Helvetica, sans-serif', [22, 'px'], 'rgba(0,0,0,1)', '400', 'none', 'normal', 'break-word', 'normal']
+                            id: 'Text6Copy',
+                            text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">СЕРТИФИКАТИ</span></p>',
+                            textStyle: ['', '', '', '', 'none'],
+                            type: 'text'
                         },
                         {
-                            rect: ['-32px', '-22px', '198px', '70px', 'auto', 'auto'],
                             type: 'rect',
+                            rect: ['-32px', '-22px', '198px', '70px', 'auto', 'auto'],
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -869,24 +859,24 @@
                     dom: [
                         {
                             rect: ['-53px', '-22px', '204px', '70px', 'auto', 'auto'],
-                            opacity: '0',
-                            id: 'RectangleCopy',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                            id: 'RectangleCopy',
+                            opacity: '0',
                             type: 'rect',
                             fill: ['rgba(65,161,195,1.00)']
                         },
                         {
-                            rect: ['5px', '-1px', '87px', '27px', 'auto', 'auto'],
                             font: ['Roboto', [22, 'px'], 'rgba(0,0,0,1)', '400', 'none', 'normal', 'break-word', 'normal'],
-                            align: 'center',
+                            type: 'text',
+                            text: '<p style=\"margin: 0px;\"><span style=\"color: rgb(255, 255, 255);\">ПОМОЩ</span></p>',
                             id: 'Text6Copy2',
                             textStyle: ['', '', '', '', 'none'],
-                            text: '<p style=\"margin: 0px;\"><span style=\"color: rgb(255, 255, 255);\">ПОМОЩ</span></p>',
-                            type: 'text'
+                            align: 'center',
+                            rect: ['5px', '-1px', '87px', '27px', 'auto', 'auto']
                         },
                         {
-                            type: 'rect',
                             rect: ['-53px', '-22px', '204px', '70px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -941,24 +931,24 @@
                     dom: [
                         {
                             rect: ['-71px', '-22px', '215px', '70px', 'auto', 'auto'],
-                            opacity: '0',
-                            id: 'Rectangle',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                            id: 'Rectangle',
+                            opacity: '0',
                             type: 'rect',
                             fill: ['rgba(65,161,195,1.00)']
                         },
                         {
-                            rect: ['-7px', '-1px', '87px', '27px', 'auto', 'auto'],
                             font: ['Roboto', [22, 'px'], 'rgba(0,0,0,1)', '400', 'none', 'normal', 'break-word', 'normal'],
-                            align: 'center',
+                            type: 'text',
+                            text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">ЗА МЕН</span></p>',
                             id: 'Text6Copy3',
                             textStyle: ['', '', '', '', 'none'],
-                            text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">ЗА МЕН</span></p>',
-                            type: 'text'
+                            align: 'center',
+                            rect: ['-7px', '-1px', '87px', '27px', 'auto', 'auto']
                         },
                         {
-                            type: 'rect',
                             rect: ['-71px', '-22px', '215px', '70px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -1037,8 +1027,8 @@
                 content: {
                     dom: [
                         {
-                            rect: ['0px', '0px', '100%', '70px', 'auto', 'auto'],
                             type: 'rect',
+                            rect: ['0px', '0px', '100%', '70px', 'auto', 'auto'],
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -1128,11 +1118,11 @@
                             fill: ['rgba(0,0,0,0)', 'images/second.png', '0px', '0px']
                         },
                         {
-                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             symbolName: 'hotspot',
-                            type: 'rect',
-                            transform: [[], [], [], ['0.20702', '1.1022']]
+                            transform: [[], [], [], ['0.20702', '1.1022']],
+                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto']
                         }
                     ],
                     style: {
@@ -1189,44 +1179,44 @@
                             '91px'
                         ],
                         [
-                            "eid492",
-                            "height",
+                            "eid488",
+                            "top",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '0px',
+                            '20px'
                         ],
                         [
-                            "eid493",
-                            "height",
+                            "eid489",
+                            "top",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
+                            '20px',
+                            '-40px'
                         ],
                         [
-                            "eid494",
-                            "height",
+                            "eid490",
+                            "top",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '-40px',
+                            '38px'
                         ],
                         [
-                            "eid495",
-                            "height",
+                            "eid491",
+                            "top",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
+                            '38px',
+                            '0px'
                         ],
                         [
                             "eid418",
@@ -1269,44 +1259,44 @@
                             '0px'
                         ],
                         [
-                            "eid488",
-                            "top",
+                            "eid492",
+                            "height",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '0px',
-                            '20px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid489",
-                            "top",
+                            "eid493",
+                            "height",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '20px',
-                            '-40px'
+                            '70px',
+                            '91px'
                         ],
                         [
-                            "eid490",
-                            "top",
+                            "eid494",
+                            "height",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '-40px',
-                            '38px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid491",
-                            "top",
+                            "eid495",
+                            "height",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '38px',
-                            '0px'
+                            '70px',
+                            '91px'
                         ]
                     ]
                 }
@@ -1327,11 +1317,11 @@
                             fill: ['rgba(0,0,0,0)', 'images/third.png', '0px', '0px']
                         },
                         {
-                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             symbolName: 'hotspot',
-                            type: 'rect',
-                            transform: [[], [], [], ['0.20702', '1.1022']]
+                            transform: [[], [], [], ['0.20702', '1.1022']],
+                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto']
                         }
                     ],
                     style: {
@@ -1348,44 +1338,44 @@
                     },
                     data: [
                         [
-                            "eid496",
-                            "top",
+                            "eid500",
+                            "height",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '0px',
-                            '20px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid497",
-                            "top",
+                            "eid501",
+                            "height",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '20px',
-                            '-40px'
+                            '70px',
+                            '91px'
                         ],
                         [
-                            "eid498",
-                            "top",
+                            "eid502",
+                            "height",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '-40px',
-                            '38px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid499",
-                            "top",
+                            "eid503",
+                            "height",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '38px',
-                            '0px'
+                            '70px',
+                            '91px'
                         ],
                         [
                             "eid422",
@@ -1468,44 +1458,44 @@
                             '0px'
                         ],
                         [
-                            "eid500",
-                            "height",
+                            "eid496",
+                            "top",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '0px',
+                            '20px'
                         ],
                         [
-                            "eid501",
-                            "height",
+                            "eid497",
+                            "top",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
+                            '20px',
+                            '-40px'
                         ],
                         [
-                            "eid502",
-                            "height",
+                            "eid498",
+                            "top",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '-40px',
+                            '38px'
                         ],
                         [
-                            "eid503",
-                            "height",
+                            "eid499",
+                            "top",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
+                            '38px',
+                            '0px'
                         ]
                     ]
                 }
@@ -1526,11 +1516,11 @@
                             fill: ['rgba(0,0,0,0)', 'images/first.png', '0px', '0px']
                         },
                         {
-                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             symbolName: 'hotspot',
-                            type: 'rect',
-                            transform: [[], [], [], ['0.20702', '1.1022']]
+                            transform: [[], [], [], ['0.20702', '1.1022']],
+                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto']
                         }
                     ],
                     style: {
@@ -1587,42 +1577,42 @@
                             '91px'
                         ],
                         [
-                            "eid476",
+                            "eid329",
                             "top",
                             0,
                             250,
                             "linear",
-                            "${hotspot}",
+                            "${first}",
                             '0px',
                             '20px'
                         ],
                         [
-                            "eid477",
+                            "eid330",
                             "top",
                             250,
                             250,
                             "linear",
-                            "${hotspot}",
+                            "${first}",
                             '20px',
                             '-40px'
                         ],
                         [
-                            "eid478",
+                            "eid331",
                             "top",
                             500,
                             250,
                             "linear",
-                            "${hotspot}",
+                            "${first}",
                             '-40px',
                             '38px'
                         ],
                         [
-                            "eid479",
+                            "eid332",
                             "top",
                             750,
                             250,
                             "linear",
-                            "${hotspot}",
+                            "${first}",
                             '38px',
                             '0px'
                         ],
@@ -1667,42 +1657,42 @@
                             '91px'
                         ],
                         [
-                            "eid329",
+                            "eid476",
                             "top",
                             0,
                             250,
                             "linear",
-                            "${first}",
+                            "${hotspot}",
                             '0px',
                             '20px'
                         ],
                         [
-                            "eid330",
+                            "eid477",
                             "top",
                             250,
                             250,
                             "linear",
-                            "${first}",
+                            "${hotspot}",
                             '20px',
                             '-40px'
                         ],
                         [
-                            "eid331",
+                            "eid478",
                             "top",
                             500,
                             250,
                             "linear",
-                            "${first}",
+                            "${hotspot}",
                             '-40px',
                             '38px'
                         ],
                         [
-                            "eid332",
+                            "eid479",
                             "top",
                             750,
                             250,
                             "linear",
-                            "${first}",
+                            "${hotspot}",
                             '38px',
                             '0px'
                         ]
@@ -1725,11 +1715,11 @@
                             fill: ['rgba(0,0,0,0)', 'images/fourth.png', '0px', '0px']
                         },
                         {
-                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             symbolName: 'hotspot',
-                            type: 'rect',
-                            transform: [[], [], [], ['0.20702', '1.1022']]
+                            transform: [[], [], [], ['0.20702', '1.1022']],
+                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto']
                         }
                     ],
                     style: {
@@ -1746,44 +1736,44 @@
                     },
                     data: [
                         [
-                            "eid508",
-                            "height",
+                            "eid434",
+                            "top",
                             0,
                             250,
                             "linear",
-                            "${hotspot}",
-                            '91px',
-                            '70px'
+                            "${fourth}",
+                            '0px',
+                            '20px'
                         ],
                         [
-                            "eid509",
-                            "height",
+                            "eid435",
+                            "top",
                             250,
                             250,
                             "linear",
-                            "${hotspot}",
-                            '70px',
-                            '91px'
+                            "${fourth}",
+                            '20px',
+                            '-40px'
                         ],
                         [
-                            "eid510",
-                            "height",
+                            "eid436",
+                            "top",
                             500,
                             250,
                             "linear",
-                            "${hotspot}",
-                            '91px',
-                            '70px'
+                            "${fourth}",
+                            '-40px',
+                            '38px'
                         ],
                         [
-                            "eid511",
-                            "height",
+                            "eid437",
+                            "top",
                             750,
                             250,
                             "linear",
-                            "${hotspot}",
-                            '70px',
-                            '91px'
+                            "${fourth}",
+                            '38px',
+                            '0px'
                         ],
                         [
                             "eid430",
@@ -1866,44 +1856,44 @@
                             '0px'
                         ],
                         [
-                            "eid434",
-                            "top",
+                            "eid508",
+                            "height",
                             0,
                             250,
                             "linear",
-                            "${fourth}",
-                            '0px',
-                            '20px'
+                            "${hotspot}",
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid435",
-                            "top",
+                            "eid509",
+                            "height",
                             250,
                             250,
                             "linear",
-                            "${fourth}",
-                            '20px',
-                            '-40px'
+                            "${hotspot}",
+                            '70px',
+                            '91px'
                         ],
                         [
-                            "eid436",
-                            "top",
+                            "eid510",
+                            "height",
                             500,
                             250,
                             "linear",
-                            "${fourth}",
-                            '-40px',
-                            '38px'
+                            "${hotspot}",
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid437",
-                            "top",
+                            "eid511",
+                            "height",
                             750,
                             250,
                             "linear",
-                            "${fourth}",
-                            '38px',
-                            '0px'
+                            "${hotspot}",
+                            '70px',
+                            '91px'
                         ]
                     ]
                 }
@@ -1918,17 +1908,17 @@
                 content: {
                     dom: [
                         {
-                            type: 'image',
-                            id: 'first2',
                             rect: ['0px', '0px', '59px', '91px', 'auto', 'auto'],
+                            id: 'first2',
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/first.png', '0px', '0px']
                         },
                         {
-                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             symbolName: 'hotspot',
-                            type: 'rect',
-                            transform: [[], [], [], ['0.20702', '1.1022']]
+                            transform: [[], [], [], ['0.20702', '1.1022']],
+                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto']
                         }
                     ],
                     style: {
@@ -1945,44 +1935,44 @@
                     },
                     data: [
                         [
-                            "eid512",
-                            "top",
+                            "eid516",
+                            "height",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '0px',
-                            '20px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid513",
-                            "top",
+                            "eid517",
+                            "height",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '20px',
-                            '-40px'
+                            '70px',
+                            '91px'
                         ],
                         [
-                            "eid514",
-                            "top",
+                            "eid518",
+                            "height",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '-40px',
-                            '38px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid515",
-                            "top",
+                            "eid519",
+                            "height",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '38px',
-                            '0px'
+                            '70px',
+                            '91px'
                         ],
                         [
                             "eid438",
@@ -2065,44 +2055,44 @@
                             '0px'
                         ],
                         [
-                            "eid516",
-                            "height",
+                            "eid512",
+                            "top",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '0px',
+                            '20px'
                         ],
                         [
-                            "eid517",
-                            "height",
+                            "eid513",
+                            "top",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
+                            '20px',
+                            '-40px'
                         ],
                         [
-                            "eid518",
-                            "height",
+                            "eid514",
+                            "top",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '-40px',
+                            '38px'
                         ],
                         [
-                            "eid519",
-                            "height",
+                            "eid515",
+                            "top",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
+                            '38px',
+                            '0px'
                         ]
                     ]
                 }
@@ -2117,17 +2107,17 @@
                 content: {
                     dom: [
                         {
-                            type: 'image',
-                            id: 'second4',
                             rect: ['0px', '0px', '59px', '91px', 'auto', 'auto'],
+                            id: 'second4',
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/second.png', '0px', '0px']
                         },
                         {
-                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             symbolName: 'hotspot',
-                            type: 'rect',
-                            transform: [[], [], [], ['0.20702', '1.1022']]
+                            transform: [[], [], [], ['0.20702', '1.1022']],
+                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto']
                         }
                     ],
                     style: {
@@ -2184,44 +2174,44 @@
                             '0px'
                         ],
                         [
-                            "eid520",
-                            "top",
+                            "eid524",
+                            "height",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '0px',
-                            '20px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid521",
-                            "top",
+                            "eid525",
+                            "height",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '20px',
-                            '-40px'
+                            '70px',
+                            '91px'
                         ],
                         [
-                            "eid522",
-                            "top",
+                            "eid526",
+                            "height",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '-40px',
-                            '38px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid523",
-                            "top",
+                            "eid527",
+                            "height",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '38px',
-                            '0px'
+                            '70px',
+                            '91px'
                         ],
                         [
                             "eid446",
@@ -2264,44 +2254,44 @@
                             '91px'
                         ],
                         [
-                            "eid524",
-                            "height",
+                            "eid520",
+                            "top",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '0px',
+                            '20px'
                         ],
                         [
-                            "eid525",
-                            "height",
+                            "eid521",
+                            "top",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
+                            '20px',
+                            '-40px'
                         ],
                         [
-                            "eid526",
-                            "height",
+                            "eid522",
+                            "top",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '-40px',
+                            '38px'
                         ],
                         [
-                            "eid527",
-                            "height",
+                            "eid523",
+                            "top",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
+                            '38px',
+                            '0px'
                         ]
                     ]
                 }
@@ -2316,17 +2306,17 @@
                 content: {
                     dom: [
                         {
-                            type: 'image',
-                            id: 'third2',
                             rect: ['0px', '0px', '59px', '91px', 'auto', 'auto'],
+                            id: 'third2',
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/third.png', '0px', '0px']
                         },
                         {
-                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             symbolName: 'hotspot',
-                            type: 'rect',
-                            transform: [[], [], [], ['0.20702', '1.1022']]
+                            transform: [[], [], [], ['0.20702', '1.1022']],
+                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto']
                         }
                     ],
                     style: {
@@ -2383,44 +2373,44 @@
                             '0px'
                         ],
                         [
-                            "eid528",
-                            "top",
+                            "eid532",
+                            "height",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '0px',
-                            '20px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid529",
-                            "top",
+                            "eid533",
+                            "height",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '20px',
-                            '-40px'
+                            '70px',
+                            '91px'
                         ],
                         [
-                            "eid530",
-                            "top",
+                            "eid534",
+                            "height",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '-40px',
-                            '38px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid531",
-                            "top",
+                            "eid535",
+                            "height",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '38px',
-                            '0px'
+                            '70px',
+                            '91px'
                         ],
                         [
                             "eid454",
@@ -2463,44 +2453,44 @@
                             '91px'
                         ],
                         [
-                            "eid532",
-                            "height",
+                            "eid528",
+                            "top",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '0px',
+                            '20px'
                         ],
                         [
-                            "eid533",
-                            "height",
+                            "eid529",
+                            "top",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
+                            '20px',
+                            '-40px'
                         ],
                         [
-                            "eid534",
-                            "height",
+                            "eid530",
+                            "top",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '-40px',
+                            '38px'
                         ],
                         [
-                            "eid535",
-                            "height",
+                            "eid531",
+                            "top",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
+                            '38px',
+                            '0px'
                         ]
                     ]
                 }
@@ -2515,17 +2505,17 @@
                 content: {
                     dom: [
                         {
-                            rect: ['0px', '0px', '59px', '91px', 'auto', 'auto'],
-                            id: 'fourth2',
                             type: 'image',
+                            id: 'fourth2',
+                            rect: ['0px', '0px', '59px', '91px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/fourth.png', '0px', '0px']
                         },
                         {
-                            type: 'rect',
+                            transform: [[], [], [], ['0.20702', '1.1022']],
                             id: 'hotspot',
                             symbolName: 'hotspot',
-                            transform: [[], [], [], ['0.20702', '1.1022']],
-                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto']
+                            rect: ['-113px', '0px', '285', '70', 'auto', 'auto'],
+                            type: 'rect'
                         }
                     ],
                     style: {
@@ -2542,84 +2532,44 @@
                     },
                     data: [
                         [
-                            "eid540",
-                            "height",
+                            "eid536",
+                            "top",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '0px',
+                            '20px'
                         ],
                         [
-                            "eid541",
-                            "height",
+                            "eid537",
+                            "top",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
+                            '20px',
+                            '-40px'
                         ],
                         [
-                            "eid542",
-                            "height",
+                            "eid538",
+                            "top",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '91px',
-                            '70px'
+                            '-40px',
+                            '38px'
                         ],
                         [
-                            "eid543",
-                            "height",
+                            "eid539",
+                            "top",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '70px',
-                            '91px'
-                        ],
-                        [
-                            "eid462",
-                            "height",
-                            0,
-                            250,
-                            "linear",
-                            "${fourth2}",
-                            '91px',
-                            '70px'
-                        ],
-                        [
-                            "eid463",
-                            "height",
-                            250,
-                            250,
-                            "linear",
-                            "${fourth2}",
-                            '70px',
-                            '91px'
-                        ],
-                        [
-                            "eid464",
-                            "height",
-                            500,
-                            250,
-                            "linear",
-                            "${fourth2}",
-                            '91px',
-                            '70px'
-                        ],
-                        [
-                            "eid465",
-                            "height",
-                            750,
-                            250,
-                            "linear",
-                            "${fourth2}",
-                            '70px',
-                            '91px'
+                            '38px',
+                            '0px'
                         ],
                         [
                             "eid466",
@@ -2662,44 +2612,84 @@
                             '0px'
                         ],
                         [
-                            "eid536",
-                            "top",
+                            "eid462",
+                            "height",
+                            0,
+                            250,
+                            "linear",
+                            "${fourth2}",
+                            '91px',
+                            '70px'
+                        ],
+                        [
+                            "eid463",
+                            "height",
+                            250,
+                            250,
+                            "linear",
+                            "${fourth2}",
+                            '70px',
+                            '91px'
+                        ],
+                        [
+                            "eid464",
+                            "height",
+                            500,
+                            250,
+                            "linear",
+                            "${fourth2}",
+                            '91px',
+                            '70px'
+                        ],
+                        [
+                            "eid465",
+                            "height",
+                            750,
+                            250,
+                            "linear",
+                            "${fourth2}",
+                            '70px',
+                            '91px'
+                        ],
+                        [
+                            "eid540",
+                            "height",
                             0,
                             250,
                             "linear",
                             "${hotspot}",
-                            '0px',
-                            '20px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid537",
-                            "top",
+                            "eid541",
+                            "height",
                             250,
                             250,
                             "linear",
                             "${hotspot}",
-                            '20px',
-                            '-40px'
+                            '70px',
+                            '91px'
                         ],
                         [
-                            "eid538",
-                            "top",
+                            "eid542",
+                            "height",
                             500,
                             250,
                             "linear",
                             "${hotspot}",
-                            '-40px',
-                            '38px'
+                            '91px',
+                            '70px'
                         ],
                         [
-                            "eid539",
-                            "top",
+                            "eid543",
+                            "height",
                             750,
                             250,
                             "linear",
                             "${hotspot}",
-                            '38px',
-                            '0px'
+                            '70px',
+                            '91px'
                         ]
                     ]
                 }
@@ -2720,10 +2710,10 @@
                             fill: ['rgba(0,0,0,0)', 'images/info-button-game.png', '0px', '0px']
                         },
                         {
-                            type: 'group',
+                            rect: ['0', '-46px', '141', '35', 'auto', 'auto'],
                             id: 'Group',
                             opacity: '0',
-                            rect: ['0', '-46px', '141', '35', 'auto', 'auto'],
+                            type: 'group',
                             c: [
                             {
                                 id: 'info-dialog-game',
@@ -2732,16 +2722,16 @@
                                 fill: ['rgba(0,0,0,0)', 'images/info-dialog-game.png', '0px', '0px']
                             },
                             {
-                                font: ['Arial, Helvetica, sans-serif', [24, ''], 'rgba(0,0,0,1)', 'normal', 'none', '', 'break-word', 'normal'],
+                                type: 'text',
                                 id: 'Text5',
                                 text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">Ще му дадеш исканата информация.</span></p>',
-                                type: 'text',
-                                rect: ['-238px', '-46px', '310px', '52px', 'auto', 'auto']
+                                rect: ['-238px', '-46px', '310px', '52px', 'auto', 'auto'],
+                                font: ['Arial, Helvetica, sans-serif', [24, ''], 'rgba(0,0,0,1)', 'normal', 'none', '', 'break-word', 'normal']
                             }]
                         },
                         {
-                            type: 'rect',
                             rect: ['0px', '0px', '100%', '42px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -2794,17 +2784,17 @@
                 content: {
                     dom: [
                         {
-                            type: 'image',
+                            rect: ['0px', '0px', '42px', '42px', 'auto', 'auto'],
                             id: 'info-button-game2',
                             opacity: '1',
-                            rect: ['0px', '0px', '42px', '42px', 'auto', 'auto'],
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/info-button-game.png', '0px', '0px']
                         },
                         {
-                            type: 'group',
+                            rect: ['-247', '-99', '316', '88', 'auto', 'auto'],
                             id: 'Group2',
                             opacity: '0',
-                            rect: ['-247', '-99', '316', '88', 'auto', 'auto'],
+                            type: 'group',
                             c: [
                             {
                                 id: 'info-dialog-game',
@@ -2813,18 +2803,18 @@
                                 fill: ['rgba(0,0,0,0)', 'images/info-dialog-game.png', '0px', '0px']
                             },
                             {
-                                type: 'text',
                                 rect: ['6px', '6px', '310px', '69px', 'auto', 'auto'],
-                                align: 'left',
+                                font: ['Arial, Helvetica, sans-serif', [24, 'px'], 'rgba(255,255,255,1.00)', '400', 'none', 'normal', 'break-word', 'normal'],
+                                text: '<p style=\"margin: 0px;\">​Ще му затвориш и ще по-звъниш на родителите си.</p>',
                                 id: 'Text7Copy4',
                                 textStyle: ['', '', '', '', 'none'],
-                                text: '<p style=\"margin: 0px;\">​Ще му затвориш и ще по-звъниш на родителите си.</p>',
-                                font: ['Arial, Helvetica, sans-serif', [24, 'px'], 'rgba(255,255,255,1.00)', '400', 'none', 'normal', 'break-word', 'normal']
+                                align: 'left',
+                                type: 'text'
                             }]
                         },
                         {
-                            type: 'rect',
                             rect: ['0px', '0px', '100%', '42px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot2',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -2883,10 +2873,10 @@
                             fill: ['rgba(0,0,0,0)', 'images/info-button-game.png', '0px', '0px']
                         },
                         {
-                            type: 'group',
+                            rect: ['-247', '-96', '312', '88', 'auto', 'auto'],
                             id: 'Group',
                             opacity: '0',
-                            rect: ['-247', '-96', '312', '88', 'auto', 'auto'],
+                            type: 'group',
                             c: [
                             {
                                 id: 'info-dialog-game',
@@ -2895,16 +2885,16 @@
                                 fill: ['rgba(0,0,0,0)', 'images/info-dialog-game.png', '0px', '0px']
                             },
                             {
-                                type: 'text',
+                                rect: ['2px', '7px', '310px', '68px', 'auto', 'auto'],
                                 id: 'Text5Copy2',
                                 text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">Ще му кажеш къде родите-лите ти съхраняват пари.</span></p>',
-                                rect: ['2px', '7px', '310px', '68px', 'auto', 'auto'],
-                                font: ['Arial, Helvetica, sans-serif', [24, ''], 'rgba(0,0,0,1)', 'normal', 'none', '', 'break-word', 'normal']
+                                font: ['Arial, Helvetica, sans-serif', [24, ''], 'rgba(0,0,0,1)', 'normal', 'none', '', 'break-word', 'normal'],
+                                type: 'text'
                             }]
                         },
                         {
-                            type: 'rect',
                             rect: ['0px', '0px', '100%', '42px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot3',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -2963,17 +2953,17 @@
                             fill: ['rgba(0,0,0,0)', 'images/skip.png', '0px', '0px']
                         },
                         {
-                            rect: ['0px', '8px', '149px', '25px', 'auto', 'auto'],
                             font: ['Roboto', [24, 'px'], 'rgba(255,255,255,1.00)', '300', 'none', 'normal', 'break-word', 'normal'],
-                            align: 'center',
+                            type: 'text',
+                            text: '<p style=\"margin: 0px;\"><span style=\"font-size: 20px;\">ВЪРНИ СЕ</span></p>',
                             id: 'Text6',
                             textStyle: ['', '', '', '', 'none'],
-                            text: '<p style=\"margin: 0px;\"><span style=\"font-size: 20px;\">ВЪРНИ СЕ</span></p>',
-                            type: 'text'
+                            align: 'center',
+                            rect: ['0px', '8px', '149px', '25px', 'auto', 'auto']
                         },
                         {
-                            type: 'rect',
                             rect: ['0px', '0px', '100%', '42px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -3010,17 +3000,17 @@
                             fill: ['rgba(0,0,0,0)', 'images/check.png', '0px', '0px']
                         },
                         {
-                            font: ['Roboto', [20, 'px'], 'rgba(255,255,255,1)', '300', 'none', 'normal', 'break-word', 'normal'],
                             type: 'text',
-                            align: 'center',
+                            rect: ['5px', '12px', '121px', '27px', 'auto', 'auto'],
+                            textStyle: ['', '', '', '', 'none'],
                             id: 'Text7',
                             text: '<p style=\"margin: 0px;\">​ПРОДЪЛЖИ</p>',
-                            textStyle: ['', '', '', '', 'none'],
-                            rect: ['5px', '12px', '121px', '27px', 'auto', 'auto']
+                            align: 'center',
+                            font: ['Roboto', [20, 'px'], 'rgba(255,255,255,1)', '300', 'none', 'normal', 'break-word', 'normal']
                         },
                         {
-                            type: 'rect',
                             rect: ['0px', '0px', '100%', '42px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -3051,338 +3041,338 @@
                 content: {
                     dom: [
                         {
-                            rect: ['1357px', '0px', '1365', '768', 'auto', 'auto'],
-                            id: 'Group7',
                             type: 'group',
+                            id: 'Group7',
+                            rect: ['1357px', '0px', '1365', '768', 'auto', 'auto'],
                             c: [
                             {
                                 rect: ['0px', '0px', '1363px', '768px', 'auto', 'auto'],
-                                opacity: '1',
-                                id: 'Background',
                                 stroke: [0, 'rgba(0,0,0,1)', 'none'],
+                                id: 'Background',
+                                opacity: '1',
                                 type: 'rect',
                                 fill: ['rgba(236,240,241,1.00)']
                             },
                             {
-                                type: 'image',
+                                rect: ['122px', '323px', '272px', '277px', 'auto', 'auto'],
                                 id: 'wrong-icon',
                                 opacity: '0',
-                                rect: ['122px', '323px', '272px', '277px', 'auto', 'auto'],
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/wrong-icon.png', '0px', '0px']
                             },
                             {
-                                type: 'image',
+                                rect: ['982px', '323px', '272px', '277px', 'auto', 'auto'],
                                 id: 'check-icon',
                                 opacity: '0',
-                                rect: ['982px', '323px', '272px', '277px', 'auto', 'auto'],
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/check-icon.png', '0px', '0px']
                             },
                             {
-                                type: 'rect',
+                                rect: ['132px', '335', '250', '250', 'auto', 'auto'],
                                 id: 'answer1q1',
                                 symbolName: 'answer1',
-                                rect: ['132px', '335', '250', '250', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['563px', '335', '250', '250', 'auto', 'auto'],
                                 id: 'answer2q1',
                                 symbolName: 'answer2',
-                                rect: ['563px', '335', '250', '250', 'auto', 'auto'],
-                                opacity: '0'
+                                opacity: '0',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['993px', '335', '250', '250', 'auto', 'auto'],
                                 id: 'answer3q1',
                                 symbolName: 'answer3',
-                                rect: ['993px', '335', '250', '250', 'auto', 'auto'],
-                                opacity: '0'
+                                opacity: '0',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['1879px', '335', '250', '250', 'auto', 'auto'],
                                 id: 'answer1q2',
                                 symbolName: 'answer1',
-                                rect: ['1879px', '335', '250', '250', 'auto', 'auto'],
-                                opacity: '0'
+                                opacity: '0',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['1809px', '335', '250', '250', 'auto', 'auto'],
                                 id: 'answer2q2',
                                 symbolName: 'answer2',
-                                rect: ['1809px', '335', '250', '250', 'auto', 'auto'],
-                                opacity: '0'
+                                opacity: '0',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['2239px', '335px', '250', '250', 'auto', 'auto'],
                                 id: 'answer3q2',
                                 symbolName: 'answer3',
-                                rect: ['2239px', '335px', '250', '250', 'auto', 'auto'],
-                                opacity: '0'
+                                opacity: '0',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['133px', '335', '250', '250', 'auto', 'auto'],
                                 id: 'answer1q3',
                                 symbolName: 'answer1',
-                                rect: ['133px', '335', '250', '250', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['563px', '335', '250', '250', 'auto', 'auto'],
                                 id: 'answer2q3',
                                 symbolName: 'answer2',
-                                rect: ['563px', '335', '250', '250', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['993px', '335px', '250', '250', 'auto', 'auto'],
                                 id: 'answer3q3',
                                 symbolName: 'answer3',
-                                rect: ['993px', '335px', '250', '250', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['133px', '335', '250', '250', 'auto', 'auto'],
                                 id: 'answer1q4',
                                 symbolName: 'answer1',
-                                rect: ['133px', '335', '250', '250', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['563px', '335', '250', '250', 'auto', 'auto'],
                                 id: 'answer2q4',
                                 symbolName: 'answer2',
-                                rect: ['563px', '335', '250', '250', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['993px', '335px', '250', '250', 'auto', 'auto'],
                                 id: 'answer3q4',
                                 symbolName: 'answer3',
-                                rect: ['993px', '335px', '250', '250', 'auto', 'auto'],
-                                opacity: '1'
-                            },
-                            {
-                                rect: ['133px', '217px', '1103px', '80px', 'auto', 'auto'],
-                                font: ['Roboto', [24, 'px'], 'rgba(255,255,255,1)', '400', 'none', 'normal', 'break-word', 'normal'],
-                                type: 'text',
-                                textStyle: ['', '', '', '', 'none'],
-                                id: 'Question',
                                 opacity: '1',
-                                align: 'center',
-                                text: '<p style=\"margin: 0px;\"><span style=\"color: rgb(52, 73, 94); font-size: 30px; font-weight: 500;\">Как ще постъпиш ако непознат поиска лична информация или пари по телефона?</span></p>'
+                                type: 'rect'
                             },
                             {
-                                rect: ['122px', '187px', '1121px', '119px', 'auto', 'auto'],
+                                text: '<p style=\"margin: 0px;\"><span style=\"color: rgb(52, 73, 94); font-size: 30px; font-weight: 500;\">Как ще постъпиш ако непознат поиска лична информация или пари по телефона?</span></p>',
                                 font: ['Roboto', [24, 'px'], 'rgba(255,255,255,1)', '400', 'none', 'normal', 'break-word', 'normal'],
-                                type: 'text',
+                                align: 'center',
+                                opacity: '1',
+                                id: 'Question',
                                 textStyle: ['', '', '', '', 'none'],
+                                rect: ['133px', '217px', '1103px', '80px', 'auto', 'auto'],
+                                type: 'text'
+                            },
+                            {
+                                text: '<p style=\"margin: 0px;\"><span style=\"color: rgb(52, 73, 94); font-size: 30px; font-weight: 500;\">Често в банята се съхраняват опасни вещества (белина) в цветни опаковки, които привличат вниманието на детето. Какво ще направиш ако такова вещество попадне в очите или по ръцете?</span></p>',
+                                font: ['Roboto', [24, 'px'], 'rgba(255,255,255,1)', '400', 'none', 'normal', 'break-word', 'normal'],
+                                align: 'center',
+                                opacity: '0',
                                 id: 'Question2',
-                                opacity: '0',
-                                align: 'center',
-                                text: '<p style=\"margin: 0px;\"><span style=\"color: rgb(52, 73, 94); font-size: 30px; font-weight: 500;\">Често в банята се съхраняват опасни вещества (белина) в цветни опаковки, които привличат вниманието на детето. Какво ще направиш ако такова вещество попадне в очите или по ръцете?</span></p>'
+                                textStyle: ['', '', '', '', 'none'],
+                                rect: ['122px', '187px', '1121px', '119px', 'auto', 'auto'],
+                                type: 'text'
                             },
                             {
-                                rect: ['133px', '217px', '1110px', '80px', 'auto', 'auto'],
+                                text: '<p style=\"margin: 0px;\"><span style=\"color: rgb(52, 73, 94); font-size: 30px; font-weight: 500;\">За да си приготвиш нещо за хапване използваш електроуреди (грил, тостер). Как ще постъпиш ако се изгориш на някой от тях (електроуредите)?</span></p>',
                                 font: ['Roboto', [24, 'px'], 'rgba(255,255,255,1)', '400', 'none', 'normal', 'break-word', 'normal'],
-                                type: 'text',
-                                textStyle: ['', '', '', '', 'none'],
+                                align: 'center',
+                                opacity: '0',
                                 id: 'Question3',
-                                opacity: '0',
-                                align: 'center',
-                                text: '<p style=\"margin: 0px;\"><span style=\"color: rgb(52, 73, 94); font-size: 30px; font-weight: 500;\">За да си приготвиш нещо за хапване използваш електроуреди (грил, тостер). Как ще постъпиш ако се изгориш на някой от тях (електроуредите)?</span></p>'
+                                textStyle: ['', '', '', '', 'none'],
+                                rect: ['133px', '217px', '1110px', '80px', 'auto', 'auto'],
+                                type: 'text'
                             },
                             {
-                                rect: ['133px', '217px', '1110px', '80px', 'auto', 'auto'],
+                                text: '<p style=\"margin: 0px;\"><span style=\"color: rgb(52, 73, 94); font-size: 30px; font-weight: 500;\">Подът в холът може да е хлъзгав и лесно може да паднеш. Какво ще направиш ако се нараниш?</span></p>',
                                 font: ['Roboto', [24, 'px'], 'rgba(255,255,255,1)', '400', 'none', 'normal', 'break-word', 'normal'],
-                                type: 'text',
-                                textStyle: ['', '', '', '', 'none'],
-                                id: 'Question4',
-                                opacity: '0',
                                 align: 'center',
-                                text: '<p style=\"margin: 0px;\"><span style=\"color: rgb(52, 73, 94); font-size: 30px; font-weight: 500;\">Подът в холът може да е хлъзгав и лесно може да паднеш. Какво ще направиш ако се нараниш?</span></p>'
+                                opacity: '0',
+                                id: 'Question4',
+                                textStyle: ['', '', '', '', 'none'],
+                                rect: ['133px', '217px', '1110px', '80px', 'auto', 'auto'],
+                                type: 'text'
                             },
                             {
                                 rect: ['303px', '94px', '80px', '80px', 'auto', 'auto'],
                                 borderRadius: ['50%', '50%', '50%', '50%'],
-                                opacity: '1',
-                                id: 'Ellipse1',
                                 stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                                id: 'Ellipse1',
+                                opacity: '1',
                                 type: 'ellipse',
                                 fill: ['rgba(192,192,192,0)', [270, [['rgba(60,159,193,1.00)', 100], ['rgba(255,255,255,1.00)', 100]]]]
                             },
                             {
                                 rect: ['383px', '132px', '150px', '3px', 'auto', 'auto'],
-                                opacity: '1',
-                                id: 'Progress1',
                                 stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                                id: 'Progress1',
+                                opacity: '1',
                                 type: 'rect',
                                 fill: ['rgba(133,208,234,1.00)']
                             },
                             {
-                                rect: ['303px', '106px', '80px', '50px', 'auto', 'auto'],
+                                text: '<p style=\"margin: 0px;\">​1</p>',
                                 font: ['Roboto', [45, 'px'], 'rgba(255,255,255,1)', '500', 'none', 'normal', 'break-word', 'normal'],
-                                type: 'text',
-                                textStyle: ['', '', '', '', 'none'],
-                                id: 'FirstText',
-                                opacity: '1',
                                 align: 'center',
-                                text: '<p style=\"margin: 0px;\">​1</p>'
+                                opacity: '1',
+                                id: 'FirstText',
+                                textStyle: ['', '', '', '', 'none'],
+                                rect: ['303px', '106px', '80px', '50px', 'auto', 'auto'],
+                                type: 'text'
                             },
                             {
                                 rect: ['533px', '94px', '80px', '80px', 'auto', 'auto'],
                                 borderRadius: ['50%', '50%', '50%', '50%'],
-                                opacity: '1',
-                                id: 'Ellipse2',
                                 stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                                id: 'Ellipse2',
+                                opacity: '1',
                                 type: 'ellipse',
                                 fill: ['rgba(192,192,192,0)', [270, [['rgba(82,194,233,1.00)', 100], ['rgba(255,255,255,1.00)', 100]]]]
                             },
                             {
                                 rect: ['613px', '132px', '150px', '3px', 'auto', 'auto'],
-                                opacity: '1',
-                                id: 'Progress2',
                                 stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                                id: 'Progress2',
+                                opacity: '1',
                                 type: 'rect',
                                 fill: ['rgba(133,208,234,1.00)']
                             },
                             {
-                                rect: ['533px', '106px', '80px', '50px', 'auto', 'auto'],
+                                text: '<p style=\"margin: 0px;\">​2</p>',
                                 font: ['Roboto', [45, 'px'], 'rgba(255,255,255,1)', '500', 'none', 'normal', 'break-word', 'normal'],
-                                type: 'text',
-                                textStyle: ['', '', '', '', 'none'],
-                                id: 'SecondText',
-                                opacity: '1',
                                 align: 'center',
-                                text: '<p style=\"margin: 0px;\">​2</p>'
+                                opacity: '1',
+                                id: 'SecondText',
+                                textStyle: ['', '', '', '', 'none'],
+                                rect: ['533px', '106px', '80px', '50px', 'auto', 'auto'],
+                                type: 'text'
                             },
                             {
                                 rect: ['763px', '94px', '80px', '80px', 'auto', 'auto'],
                                 borderRadius: ['50%', '50%', '50%', '50%'],
-                                opacity: '1',
-                                id: 'Ellipse3',
                                 stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                                id: 'Ellipse3',
+                                opacity: '1',
                                 type: 'ellipse',
                                 fill: ['rgba(192,192,192,0)', [270, [['rgba(82,194,233,1.00)', 100], ['rgba(255,255,255,1.00)', 100]]]]
                             },
                             {
                                 rect: ['843px', '132px', '150px', '3px', 'auto', 'auto'],
-                                opacity: '1',
-                                id: 'Progress3',
                                 stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                                id: 'Progress3',
+                                opacity: '1',
                                 type: 'rect',
                                 fill: ['rgba(133,208,234,1)']
                             },
                             {
-                                rect: ['763px', '106px', '80px', '50px', 'auto', 'auto'],
+                                text: '<p style=\"margin: 0px;\">​3</p>',
                                 font: ['Roboto', [45, 'px'], 'rgba(255,255,255,1)', '500', 'none', 'normal', 'break-word', 'normal'],
-                                type: 'text',
-                                textStyle: ['', '', '', '', 'none'],
-                                id: 'ThirdText',
-                                opacity: '1',
                                 align: 'center',
-                                text: '<p style=\"margin: 0px;\">​3</p>'
+                                opacity: '1',
+                                id: 'ThirdText',
+                                textStyle: ['', '', '', '', 'none'],
+                                rect: ['763px', '106px', '80px', '50px', 'auto', 'auto'],
+                                type: 'text'
                             },
                             {
                                 rect: ['993px', '94px', '80px', '80px', 'auto', 'auto'],
                                 borderRadius: ['50%', '50%', '50%', '50%'],
-                                opacity: '1',
-                                id: 'Ellipse4',
                                 stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                                id: 'Ellipse4',
+                                opacity: '1',
                                 type: 'ellipse',
                                 fill: ['rgba(192,192,192,0)', [270, [['rgba(82,194,233,1.00)', 100], ['rgba(255,255,255,1.00)', 100]]]]
                             },
                             {
-                                rect: ['993px', '106px', '80px', '50px', 'auto', 'auto'],
+                                text: '<p style=\"margin: 0px;\">​4</p>',
                                 font: ['Roboto', [45, 'px'], 'rgba(255,255,255,1)', '500', 'none', 'normal', 'break-word', 'normal'],
-                                type: 'text',
-                                textStyle: ['', '', '', '', 'none'],
-                                id: 'FourthText',
-                                opacity: '1',
                                 align: 'center',
-                                text: '<p style=\"margin: 0px;\">​4</p>'
+                                opacity: '1',
+                                id: 'FourthText',
+                                textStyle: ['', '', '', '', 'none'],
+                                rect: ['993px', '106px', '80px', '50px', 'auto', 'auto'],
+                                type: 'text'
                             },
                             {
-                                type: 'rect',
+                                rect: ['736px', '335px', '42', '42', 'auto', 'auto'],
                                 id: 'btn_game_info2q1',
                                 symbolName: 'btn_info_game1',
-                                rect: ['736px', '335px', '42', '42', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['304px', '335px', '42', '42', 'auto', 'auto'],
                                 id: 'btn_game_info1q1',
                                 symbolName: 'btn_info_game',
-                                rect: ['304px', '335px', '42', '42', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['1166px', '335px', '42', '42', 'auto', 'auto'],
                                 id: 'btn_game_info3q1',
                                 symbolName: 'btn_game_info3',
-                                rect: ['1166px', '335px', '42', '42', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['465px', '660px', '196', '46', 'auto', 'auto'],
                                 id: 'btn_skip',
                                 symbolName: 'btn_skip',
-                                rect: ['465px', '660px', '196', '46', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['745px', '660px', '196', '46', 'auto', 'auto'],
                                 id: 'btn_next4',
                                 symbolName: 'btn_skip_1',
-                                rect: ['745px', '660px', '196', '46', 'auto', 'auto'],
-                                opacity: '0'
+                                opacity: '0',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['465px', '660px', '196', '46', 'auto', 'auto'],
                                 id: 'btn_next3',
                                 symbolName: 'btn_skip_1',
-                                rect: ['465px', '660px', '196', '46', 'auto', 'auto'],
-                                opacity: '0'
+                                opacity: '0',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['1909px', '660px', '196', '46', 'auto', 'auto'],
                                 id: 'btn_next2',
                                 symbolName: 'btn_skip_2',
-                                rect: ['1909px', '660px', '196', '46', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['745px', '660px', '196', '46', 'auto', 'auto'],
                                 id: 'btn_next',
                                 symbolName: 'btn_skip_1',
-                                rect: ['745px', '660px', '196', '46', 'auto', 'auto'],
-                                opacity: '1'
+                                opacity: '1',
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['383px', '132px', '0px', '3px', 'auto', 'auto'],
                                 id: 'Progress_Animation1',
                                 stroke: [0, 'rgb(0, 0, 0)', 'none'],
-                                rect: ['383px', '132px', '0px', '3px', 'auto', 'auto'],
+                                type: 'rect',
                                 fill: ['rgba(60,159,193,1.00)']
                             },
                             {
-                                type: 'rect',
+                                rect: ['613px', '132px', '0px', '3px', 'auto', 'auto'],
                                 id: 'Progress_Animation2',
                                 stroke: [0, 'rgb(0, 0, 0)', 'none'],
-                                rect: ['613px', '132px', '0px', '3px', 'auto', 'auto'],
+                                type: 'rect',
                                 fill: ['rgba(60,159,193,1.00)']
                             },
                             {
-                                type: 'rect',
+                                rect: ['843px', '132px', '0px', '3px', 'auto', 'auto'],
                                 id: 'Progress_Animation3',
                                 stroke: [0, 'rgb(0, 0, 0)', 'none'],
-                                rect: ['843px', '132px', '0px', '3px', 'auto', 'auto'],
+                                type: 'rect',
                                 fill: ['rgba(60,159,193,1.00)']
                             }]
                         },
                         {
-                            rect: ['0px', '0px', '1363', '768', 'auto', 'auto'],
-                            id: 'Group8',
                             type: 'group',
+                            id: 'Group8',
+                            rect: ['0px', '0px', '1363', '768', 'auto', 'auto'],
                             c: [
                             {
                                 id: 'level1',
@@ -3393,47 +3383,47 @@
                             {
                                 id: 'third',
                                 rect: ['513px', '509px', '59', '91', 'auto', 'auto'],
-                                symbolName: 'third_pin',
-                                type: 'rect'
+                                type: 'rect',
+                                symbolName: 'third_pin'
                             },
                             {
                                 id: 'second',
                                 rect: ['804px', '343px', '59', '91', 'auto', 'auto'],
-                                symbolName: 'second',
-                                type: 'rect'
+                                type: 'rect',
+                                symbolName: 'second'
                             },
                             {
                                 id: 'first',
                                 rect: ['789px', '169px', '59', '91', 'auto', 'auto'],
-                                symbolName: 'first_pin',
-                                type: 'rect'
+                                type: 'rect',
+                                symbolName: 'first_pin'
                             },
                             {
                                 id: 'fourth',
                                 rect: ['775px', '494px', '59', '91', 'auto', 'auto'],
-                                symbolName: 'fourth',
-                                type: 'rect'
+                                type: 'rect',
+                                symbolName: 'fourth'
                             }]
                         },
                         {
-                            rect: ['-326px', '-306px', '326px', '50px', 'auto', 'auto'],
+                            text: '<p style=\"margin: 0px;\"><span style=\"font-weight: 500; font-size: 35px;\">Ти завърши теста!</span></p>',
                             font: ['Roboto', [35, 'px'], 'rgba(52,73,94,1.00)', '400', 'none', 'normal', 'break-word', 'normal'],
-                            type: 'text',
-                            textStyle: ['', '', '', '', 'none'],
-                            id: 'Text5',
-                            opacity: '0',
                             align: 'center',
-                            text: '<p style=\"margin: 0px;\"><span style=\"font-weight: 500; font-size: 35px;\">Ти завърши теста!</span></p>'
+                            opacity: '0',
+                            id: 'Text5',
+                            textStyle: ['', '', '', '', 'none'],
+                            rect: ['-326px', '-306px', '326px', '50px', 'auto', 'auto'],
+                            type: 'text'
                         },
                         {
-                            rect: ['-326px', '-203px', '242px', '183px', 'auto', 'auto'],
+                            text: '<p style=\"margin: 0px;\">​<span style=\"font-weight: 100; font-size: 159px;\">0%</span></p>',
                             font: ['Roboto', [35, 'px'], 'rgba(52,73,94,1)', '400', 'none', 'normal', 'break-word', 'normal'],
-                            type: 'text',
-                            textStyle: ['', '', '', '', 'none'],
-                            id: 'Text6',
-                            opacity: '0',
                             align: 'center',
-                            text: '<p style=\"margin: 0px;\">​<span style=\"font-weight: 100; font-size: 159px;\">0%</span></p>'
+                            opacity: '0',
+                            id: 'Text6',
+                            textStyle: ['', '', '', '', 'none'],
+                            rect: ['-326px', '-203px', '242px', '183px', 'auto', 'auto'],
+                            type: 'text'
                         }
                     ],
                     style: {
@@ -3466,134 +3456,14 @@
                     },
                     data: [
                         [
-                            "eid887",
-                            "opacity",
-                            1250,
-                            195,
-                            "linear",
-                            "${wrong-icon}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid1141",
-                            "opacity",
-                            1445,
-                            40,
-                            "linear",
-                            "${wrong-icon}",
-                            '1',
-                            '0'
-                        ],
-                        [
-                            "eid1142",
-                            "opacity",
-                            1485,
-                            210,
-                            "linear",
-                            "${wrong-icon}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid1143",
-                            "opacity",
-                            1745,
+                            "eid905",
+                            "left",
+                            1000,
                             0,
                             "linear",
-                            "${wrong-icon}",
-                            '0',
-                            '0'
-                        ],
-                        [
-                            "eid923",
-                            "opacity",
-                            3000,
-                            195,
-                            "linear",
-                            "${wrong-icon}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid924",
-                            "opacity",
-                            3235,
-                            210,
-                            "linear",
-                            "${wrong-icon}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid930",
-                            "opacity",
-                            3500,
-                            0,
-                            "linear",
-                            "${wrong-icon}",
-                            '1',
-                            '0'
-                        ],
-                        [
-                            "eid979",
-                            "opacity",
-                            5000,
-                            195,
-                            "linear",
-                            "${wrong-icon}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid978",
-                            "opacity",
-                            5241,
-                            210,
-                            "linear",
-                            "${wrong-icon}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid995",
-                            "opacity",
-                            5500,
-                            0,
-                            "linear",
-                            "${wrong-icon}",
-                            '1',
-                            '0'
-                        ],
-                        [
-                            "eid988",
-                            "opacity",
-                            6750,
-                            195,
-                            "linear",
-                            "${wrong-icon}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid989",
-                            "opacity",
-                            6991,
-                            210,
-                            "linear",
-                            "${wrong-icon}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid997",
-                            "opacity",
-                            7250,
-                            0,
-                            "linear",
-                            "${wrong-icon}",
-                            '1',
-                            '0'
+                            "${Question2}",
+                            '122px',
+                            '122px'
                         ],
                         [
                             "eid619",
@@ -3786,64 +3656,34 @@
                             '1'
                         ],
                         [
-                            "eid1170",
+                            "eid1090",
                             "left",
                             0,
                             0,
                             "linear",
-                            "${answer1q3}",
-                            '1421px',
-                            '1421px'
+                            "${btn_next2}",
+                            '1909px',
+                            '1909px'
                         ],
                         [
-                            "eid1171",
+                            "eid1091",
                             "left",
-                            1000,
+                            1745,
                             0,
                             "linear",
-                            "${answer1q3}",
-                            '1421px',
-                            '1379px'
+                            "${btn_next2}",
+                            '1909px',
+                            '745px'
                         ],
                         [
-                            "eid1172",
-                            "left",
-                            1750,
-                            0,
-                            "linear",
-                            "${answer1q3}",
-                            '1379px',
-                            '1500px'
-                        ],
-                        [
-                            "eid1173",
-                            "left",
-                            2750,
-                            0,
-                            "linear",
-                            "${answer1q3}",
-                            '1500px',
-                            '1500px'
-                        ],
-                        [
-                            "eid1174",
+                            "eid1094",
                             "left",
                             3750,
                             0,
                             "linear",
-                            "${answer1q3}",
-                            '133px',
-                            '133px'
-                        ],
-                        [
-                            "eid1175",
-                            "left",
-                            5500,
-                            0,
-                            "linear",
-                            "${answer1q3}",
-                            '1373px',
-                            '1879px'
+                            "${btn_next2}",
+                            '745px',
+                            '1909px'
                         ],
                         [
                             "eid1096",
@@ -3926,24 +3766,44 @@
                             '0'
                         ],
                         [
-                            "eid823",
-                            "left",
+                            "eid1176",
+                            "opacity",
                             0,
                             0,
                             "linear",
-                            "${Text6}",
-                            '-326px',
-                            '-326px'
+                            "${answer1q3}",
+                            '0',
+                            '0'
                         ],
                         [
-                            "eid825",
-                            "left",
-                            5000,
+                            "eid1177",
+                            "opacity",
+                            1750,
                             0,
                             "linear",
-                            "${Text6}",
-                            '-326px',
-                            '705px'
+                            "${answer1q3}",
+                            '0',
+                            '0'
+                        ],
+                        [
+                            "eid1178",
+                            "opacity",
+                            3750,
+                            0,
+                            "linear",
+                            "${answer1q3}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid1179",
+                            "opacity",
+                            5500,
+                            0,
+                            "linear",
+                            "${answer1q3}",
+                            '1',
+                            '1'
                         ],
                         [
                             "eid779",
@@ -4126,24 +3986,14 @@
                             '1909px'
                         ],
                         [
-                            "eid789",
-                            "left",
+                            "eid630",
+                            "width",
+                            5500,
                             1000,
-                            0,
                             "linear",
-                            "${answer3q1}",
-                            '993px',
-                            '993px'
-                        ],
-                        [
-                            "eid801",
-                            "left",
-                            5000,
-                            0,
-                            "linear",
-                            "${answer3q1}",
-                            '993px',
-                            '993px'
+                            "${Progress_Animation3}",
+                            '0px',
+                            '150px'
                         ],
                         [
                             "eid602",
@@ -4936,14 +4786,34 @@
                             '2239px'
                         ],
                         [
-                            "eid689",
-                            "opacity",
-                            5000,
+                            "eid1086",
+                            "top",
+                            0,
                             0,
                             "linear",
-                            "${Progress1}",
-                            '1',
-                            '1'
+                            "${btn_next2}",
+                            '780px',
+                            '780px'
+                        ],
+                        [
+                            "eid1087",
+                            "top",
+                            1745,
+                            0,
+                            "linear",
+                            "${btn_next2}",
+                            '780px',
+                            '660px'
+                        ],
+                        [
+                            "eid1092",
+                            "top",
+                            3750,
+                            0,
+                            "linear",
+                            "${btn_next2}",
+                            '660px',
+                            '780px'
                         ],
                         [
                             "eid1160",
@@ -5196,44 +5066,44 @@
                             '0'
                         ],
                         [
-                            "eid956",
-                            "opacity",
-                            0,
-                            0,
-                            "linear",
-                            "${btn_game_info3q1}",
-                            '1',
-                            '1'
-                        ],
-                        [
-                            "eid954",
-                            "opacity",
-                            1750,
+                            "eid787",
+                            "left",
+                            1000,
                             0,
                             "linear",
-                            "${btn_game_info3q1}",
-                            '1',
-                            '0'
+                            "${answer2q1}",
+                            '563px',
+                            '563px'
                         ],
                         [
-                            "eid677",
-                            "opacity",
+                            "eid802",
+                            "left",
                             5000,
                             0,
                             "linear",
-                            "${btn_game_info3q1}",
-                            '0',
-                            '1'
+                            "${answer2q1}",
+                            '563px',
+                            '563px'
                         ],
                         [
-                            "eid630",
-                            "width",
-                            5500,
+                            "eid789",
+                            "left",
                             1000,
+                            0,
                             "linear",
-                            "${Progress_Animation3}",
-                            '0px',
-                            '150px'
+                            "${answer3q1}",
+                            '993px',
+                            '993px'
+                        ],
+                        [
+                            "eid801",
+                            "left",
+                            5000,
+                            0,
+                            "linear",
+                            "${answer3q1}",
+                            '993px',
+                            '993px'
                         ],
                         [
                             "eid686",
@@ -5266,404 +5136,64 @@
                             '465px'
                         ],
                         [
-                            "eid682",
-                            "opacity",
-                            5000,
+                            "eid1011",
+                            "left",
+                            0,
                             0,
                             "linear",
-                            "${ThirdText}",
-                            '1',
-                            '1'
+                            "${answer2q2}",
+                            '1851px',
+                            '1851px'
                         ],
                         [
-                            "eid634",
-                            "background-image",
-                            500,
+                            "eid967",
+                            "left",
+                            1000,
                             0,
                             "linear",
-                            "${Ellipse4}",
-                            [270,[['rgba(82,194,233,1.00)',100],['rgba(255,255,255,1.00)',100]]],
-                            [270,[['rgba(82,194,233,1.00)',100],['rgba(255,255,255,1.00)',100]]]
+                            "${answer2q2}",
+                            '563px',
+                            '1809px'
                         ],
                         [
-                            "eid635",
-                            "background-image",
-                            6500,
-                            0,
-                            "linear",
-                            "${Ellipse4}",
-                            [270,[['rgba(82,194,233,1.00)',100],['rgba(255,255,255,1.00)',100]]],
-                            [270,[['rgba(60,159,193,1.00)',100],['rgba(255,255,255,1.00)',100]]]
-                        ],
-                        [
-                            "eid1054",
-                            "top",
-                            1695,
-                            0,
-                            "linear",
-                            "${btn_next}",
-                            '660px',
-                            '660px'
-                        ],
-                        [
-                            "eid1055",
-                            "top",
+                            "eid1014",
+                            "left",
                             1750,
                             0,
                             "linear",
-                            "${btn_next}",
-                            '660px',
-                            '780px'
+                            "${answer2q2}",
+                            '1809px',
+                            '563px'
                         ],
                         [
-                            "eid684",
-                            "opacity",
-                            5000,
-                            0,
-                            "linear",
-                            "${Ellipse3}",
-                            '1',
-                            '1'
-                        ],
-                        [
-                            "eid1086",
-                            "top",
-                            0,
-                            0,
-                            "linear",
-                            "${btn_next2}",
-                            '780px',
-                            '780px'
-                        ],
-                        [
-                            "eid1087",
-                            "top",
-                            1745,
-                            0,
-                            "linear",
-                            "${btn_next2}",
-                            '780px',
-                            '660px'
-                        ],
-                        [
-                            "eid1092",
-                            "top",
-                            3750,
-                            0,
-                            "linear",
-                            "${btn_next2}",
-                            '660px',
-                            '780px'
-                        ],
-                        [
-                            "eid1176",
-                            "opacity",
-                            0,
-                            0,
-                            "linear",
-                            "${answer1q3}",
-                            '0',
-                            '0'
-                        ],
-                        [
-                            "eid1177",
-                            "opacity",
-                            1750,
-                            0,
-                            "linear",
-                            "${answer1q3}",
-                            '0',
-                            '0'
-                        ],
-                        [
-                            "eid1178",
-                            "opacity",
-                            3750,
-                            0,
-                            "linear",
-                            "${answer1q3}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid1179",
-                            "opacity",
-                            5500,
-                            0,
-                            "linear",
-                            "${answer1q3}",
-                            '1',
-                            '1'
-                        ],
-                        [
-                            "eid1090",
-                            "left",
-                            0,
-                            0,
-                            "linear",
-                            "${btn_next2}",
-                            '1909px',
-                            '1909px'
-                        ],
-                        [
-                            "eid1091",
-                            "left",
-                            1745,
-                            0,
-                            "linear",
-                            "${btn_next2}",
-                            '1909px',
-                            '745px'
-                        ],
-                        [
-                            "eid1094",
-                            "left",
-                            3750,
-                            0,
-                            "linear",
-                            "${btn_next2}",
-                            '745px',
-                            '1909px'
-                        ],
-                        [
-                            "eid616",
-                            "width",
-                            3750,
-                            1000,
-                            "linear",
-                            "${Progress_Animation2}",
-                            '0px',
-                            '150px'
-                        ],
-                        [
-                            "eid905",
-                            "left",
-                            1000,
-                            0,
-                            "linear",
-                            "${Question2}",
-                            '122px',
-                            '122px'
-                        ],
-                        [
-                            "eid925",
-                            "left",
-                            1000,
-                            0,
-                            "linear",
-                            "${check-icon}",
-                            '552px',
-                            '552px'
-                        ],
-                        [
-                            "eid918",
+                            "eid1002",
                             "left",
                             2750,
                             0,
                             "linear",
-                            "${check-icon}",
-                            '552px',
-                            '122px'
+                            "${answer2q2}",
+                            '563px',
+                            '563px'
                         ],
                         [
-                            "eid982",
+                            "eid1148",
                             "left",
-                            4750,
+                            3745,
                             0,
                             "linear",
-                            "${check-icon}",
-                            '122px',
-                            '552px'
+                            "${answer2q2}",
+                            '563px',
+                            '1803px'
                         ],
                         [
-                            "eid990",
+                            "eid968",
                             "left",
-                            6500,
+                            5500,
                             0,
                             "linear",
-                            "${check-icon}",
-                            '552px',
-                            '982px'
-                        ],
-                        [
-                            "eid870",
-                            "opacity",
-                            1000,
-                            0,
-                            "linear",
-                            "${Question}",
-                            '1',
-                            '1'
-                        ],
-                        [
-                            "eid904",
-                            "opacity",
-                            1750,
-                            0,
-                            "linear",
-                            "${Question}",
-                            '0',
-                            '0'
-                        ],
-                        [
-                            "eid947",
-                            "opacity",
-                            6000,
-                            0,
-                            "linear",
-                            "${Question}",
-                            '0',
-                            '0'
-                        ],
-                        [
-                            "eid822",
-                            "opacity",
-                            0,
-                            0,
-                            "linear",
-                            "${Text5}",
-                            '0',
-                            '0'
-                        ],
-                        [
-                            "eid828",
-                            "opacity",
-                            5000,
-                            0,
-                            "linear",
-                            "${Text5}",
-                            '0',
-                            '0'
-                        ],
-                        [
-                            "eid960",
-                            "opacity",
-                            0,
-                            0,
-                            "linear",
-                            "${answer2q1}",
-                            '1',
-                            '1'
-                        ],
-                        [
-                            "eid951",
-                            "opacity",
-                            1750,
-                            0,
-                            "linear",
-                            "${answer2q1}",
-                            '1',
-                            '0'
-                        ],
-                        [
-                            "eid694",
-                            "opacity",
-                            5000,
-                            0,
-                            "linear",
-                            "${answer2q1}",
-                            '0',
-                            '0'
-                        ],
-                        [
-                            "eid683",
-                            "opacity",
-                            5000,
-                            0,
-                            "linear",
-                            "${Progress3}",
-                            '1',
-                            '1'
-                        ],
-                        [
-                            "eid782",
-                            "left",
-                            1000,
-                            0,
-                            "linear",
-                            "${Question}",
-                            '133px',
-                            '133px'
-                        ],
-                        [
-                            "eid1088",
-                            "opacity",
-                            0,
-                            0,
-                            "linear",
-                            "${btn_next2}",
-                            '0',
-                            '0'
-                        ],
-                        [
-                            "eid1089",
-                            "opacity",
-                            1745,
-                            0,
-                            "linear",
-                            "${btn_next2}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid1093",
-                            "opacity",
-                            3750,
-                            0,
-                            "linear",
-                            "${btn_next2}",
-                            '1',
-                            '0'
-                        ],
-                        [
-                            "eid786",
-                            "left",
-                            1000,
-                            0,
-                            "linear",
-                            "${answer1q1}",
-                            '133px',
-                            '133px'
-                        ],
-                        [
-                            "eid803",
-                            "left",
-                            5000,
-                            0,
-                            "linear",
-                            "${answer1q1}",
-                            '133px',
-                            '132px'
-                        ],
-                        [
-                            "eid959",
-                            "opacity",
-                            0,
-                            0,
-                            "linear",
-                            "${answer3q1}",
-                            '1',
-                            '1'
-                        ],
-                        [
-                            "eid950",
-                            "opacity",
-                            1750,
-                            0,
-                            "linear",
-                            "${answer3q1}",
-                            '1',
-                            '0'
-                        ],
-                        [
-                            "eid693",
-                            "opacity",
-                            5000,
-                            0,
-                            "linear",
-                            "${answer3q1}",
-                            '0',
-                            '0'
+                            "${answer2q2}",
+                            '1803px',
+                            '1809px'
                         ],
                         [
                             "eid946",
@@ -5736,64 +5266,514 @@
                             '0'
                         ],
                         [
-                            "eid1011",
-                            "left",
-                            0,
+                            "eid1054",
+                            "top",
+                            1695,
                             0,
                             "linear",
-                            "${answer2q2}",
-                            '1851px',
-                            '1851px'
+                            "${btn_next}",
+                            '660px',
+                            '660px'
                         ],
                         [
-                            "eid967",
+                            "eid1055",
+                            "top",
+                            1750,
+                            0,
+                            "linear",
+                            "${btn_next}",
+                            '660px',
+                            '780px'
+                        ],
+                        [
+                            "eid684",
+                            "opacity",
+                            5000,
+                            0,
+                            "linear",
+                            "${Ellipse3}",
+                            '1',
+                            '1'
+                        ],
+                        [
+                            "eid689",
+                            "opacity",
+                            5000,
+                            0,
+                            "linear",
+                            "${Progress1}",
+                            '1',
+                            '1'
+                        ],
+                        [
+                            "eid786",
                             "left",
                             1000,
                             0,
                             "linear",
-                            "${answer2q2}",
-                            '563px',
-                            '1809px'
+                            "${answer1q1}",
+                            '133px',
+                            '133px'
                         ],
                         [
-                            "eid1014",
+                            "eid803",
                             "left",
-                            1750,
+                            5000,
                             0,
                             "linear",
-                            "${answer2q2}",
-                            '1809px',
-                            '563px'
+                            "${answer1q1}",
+                            '133px',
+                            '132px'
                         ],
                         [
-                            "eid1002",
+                            "eid1088",
+                            "opacity",
+                            0,
+                            0,
+                            "linear",
+                            "${btn_next2}",
+                            '0',
+                            '0'
+                        ],
+                        [
+                            "eid1089",
+                            "opacity",
+                            1745,
+                            0,
+                            "linear",
+                            "${btn_next2}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid1093",
+                            "opacity",
+                            3750,
+                            0,
+                            "linear",
+                            "${btn_next2}",
+                            '1',
+                            '0'
+                        ],
+                        [
+                            "eid782",
+                            "left",
+                            1000,
+                            0,
+                            "linear",
+                            "${Question}",
+                            '133px',
+                            '133px'
+                        ],
+                        [
+                            "eid683",
+                            "opacity",
+                            5000,
+                            0,
+                            "linear",
+                            "${Progress3}",
+                            '1',
+                            '1'
+                        ],
+                        [
+                            "eid925",
+                            "left",
+                            1000,
+                            0,
+                            "linear",
+                            "${check-icon}",
+                            '552px',
+                            '552px'
+                        ],
+                        [
+                            "eid918",
                             "left",
                             2750,
                             0,
                             "linear",
-                            "${answer2q2}",
-                            '563px',
-                            '563px'
+                            "${check-icon}",
+                            '552px',
+                            '122px'
                         ],
                         [
-                            "eid1148",
+                            "eid982",
                             "left",
-                            3745,
+                            4750,
                             0,
                             "linear",
-                            "${answer2q2}",
-                            '563px',
-                            '1803px'
+                            "${check-icon}",
+                            '122px',
+                            '552px'
                         ],
                         [
-                            "eid968",
+                            "eid990",
+                            "left",
+                            6500,
+                            0,
+                            "linear",
+                            "${check-icon}",
+                            '552px',
+                            '982px'
+                        ],
+                        [
+                            "eid960",
+                            "opacity",
+                            0,
+                            0,
+                            "linear",
+                            "${answer2q1}",
+                            '1',
+                            '1'
+                        ],
+                        [
+                            "eid951",
+                            "opacity",
+                            1750,
+                            0,
+                            "linear",
+                            "${answer2q1}",
+                            '1',
+                            '0'
+                        ],
+                        [
+                            "eid694",
+                            "opacity",
+                            5000,
+                            0,
+                            "linear",
+                            "${answer2q1}",
+                            '0',
+                            '0'
+                        ],
+                        [
+                            "eid822",
+                            "opacity",
+                            0,
+                            0,
+                            "linear",
+                            "${Text5}",
+                            '0',
+                            '0'
+                        ],
+                        [
+                            "eid828",
+                            "opacity",
+                            5000,
+                            0,
+                            "linear",
+                            "${Text5}",
+                            '0',
+                            '0'
+                        ],
+                        [
+                            "eid870",
+                            "opacity",
+                            1000,
+                            0,
+                            "linear",
+                            "${Question}",
+                            '1',
+                            '1'
+                        ],
+                        [
+                            "eid904",
+                            "opacity",
+                            1750,
+                            0,
+                            "linear",
+                            "${Question}",
+                            '0',
+                            '0'
+                        ],
+                        [
+                            "eid947",
+                            "opacity",
+                            6000,
+                            0,
+                            "linear",
+                            "${Question}",
+                            '0',
+                            '0'
+                        ],
+                        [
+                            "eid887",
+                            "opacity",
+                            1250,
+                            195,
+                            "linear",
+                            "${wrong-icon}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid1141",
+                            "opacity",
+                            1445,
+                            40,
+                            "linear",
+                            "${wrong-icon}",
+                            '1',
+                            '0'
+                        ],
+                        [
+                            "eid1142",
+                            "opacity",
+                            1485,
+                            210,
+                            "linear",
+                            "${wrong-icon}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid1143",
+                            "opacity",
+                            1745,
+                            0,
+                            "linear",
+                            "${wrong-icon}",
+                            '0',
+                            '0'
+                        ],
+                        [
+                            "eid923",
+                            "opacity",
+                            3000,
+                            195,
+                            "linear",
+                            "${wrong-icon}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid924",
+                            "opacity",
+                            3235,
+                            210,
+                            "linear",
+                            "${wrong-icon}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid930",
+                            "opacity",
+                            3500,
+                            0,
+                            "linear",
+                            "${wrong-icon}",
+                            '1',
+                            '0'
+                        ],
+                        [
+                            "eid979",
+                            "opacity",
+                            5000,
+                            195,
+                            "linear",
+                            "${wrong-icon}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid978",
+                            "opacity",
+                            5241,
+                            210,
+                            "linear",
+                            "${wrong-icon}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid995",
+                            "opacity",
+                            5500,
+                            0,
+                            "linear",
+                            "${wrong-icon}",
+                            '1',
+                            '0'
+                        ],
+                        [
+                            "eid988",
+                            "opacity",
+                            6750,
+                            195,
+                            "linear",
+                            "${wrong-icon}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid989",
+                            "opacity",
+                            6991,
+                            210,
+                            "linear",
+                            "${wrong-icon}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid997",
+                            "opacity",
+                            7250,
+                            0,
+                            "linear",
+                            "${wrong-icon}",
+                            '1',
+                            '0'
+                        ],
+                        [
+                            "eid616",
+                            "width",
+                            3750,
+                            1000,
+                            "linear",
+                            "${Progress_Animation2}",
+                            '0px',
+                            '150px'
+                        ],
+                        [
+                            "eid1170",
+                            "left",
+                            0,
+                            0,
+                            "linear",
+                            "${answer1q3}",
+                            '1421px',
+                            '1421px'
+                        ],
+                        [
+                            "eid1171",
+                            "left",
+                            1000,
+                            0,
+                            "linear",
+                            "${answer1q3}",
+                            '1421px',
+                            '1379px'
+                        ],
+                        [
+                            "eid1172",
+                            "left",
+                            1750,
+                            0,
+                            "linear",
+                            "${answer1q3}",
+                            '1379px',
+                            '1500px'
+                        ],
+                        [
+                            "eid1173",
+                            "left",
+                            2750,
+                            0,
+                            "linear",
+                            "${answer1q3}",
+                            '1500px',
+                            '1500px'
+                        ],
+                        [
+                            "eid1174",
+                            "left",
+                            3750,
+                            0,
+                            "linear",
+                            "${answer1q3}",
+                            '133px',
+                            '133px'
+                        ],
+                        [
+                            "eid1175",
                             "left",
                             5500,
                             0,
                             "linear",
-                            "${answer2q2}",
-                            '1803px',
-                            '1809px'
+                            "${answer1q3}",
+                            '1373px',
+                            '1879px'
+                        ],
+                        [
+                            "eid823",
+                            "left",
+                            0,
+                            0,
+                            "linear",
+                            "${Text6}",
+                            '-326px',
+                            '-326px'
+                        ],
+                        [
+                            "eid825",
+                            "left",
+                            5000,
+                            0,
+                            "linear",
+                            "${Text6}",
+                            '-326px',
+                            '705px'
+                        ],
+                        [
+                            "eid959",
+                            "opacity",
+                            0,
+                            0,
+                            "linear",
+                            "${answer3q1}",
+                            '1',
+                            '1'
+                        ],
+                        [
+                            "eid950",
+                            "opacity",
+                            1750,
+                            0,
+                            "linear",
+                            "${answer3q1}",
+                            '1',
+                            '0'
+                        ],
+                        [
+                            "eid693",
+                            "opacity",
+                            5000,
+                            0,
+                            "linear",
+                            "${answer3q1}",
+                            '0',
+                            '0'
+                        ],
+                        [
+                            "eid634",
+                            "background-image",
+                            500,
+                            0,
+                            "linear",
+                            "${Ellipse4}",
+                            [270,[['rgba(82,194,233,1.00)',100],['rgba(255,255,255,1.00)',100]]],
+                            [270,[['rgba(82,194,233,1.00)',100],['rgba(255,255,255,1.00)',100]]]
+                        ],
+                        [
+                            "eid635",
+                            "background-image",
+                            6500,
+                            0,
+                            "linear",
+                            "${Ellipse4}",
+                            [270,[['rgba(82,194,233,1.00)',100],['rgba(255,255,255,1.00)',100]]],
+                            [270,[['rgba(60,159,193,1.00)',100],['rgba(255,255,255,1.00)',100]]]
+                        ],
+                        [
+                            "eid682",
+                            "opacity",
+                            5000,
+                            0,
+                            "linear",
+                            "${ThirdText}",
+                            '1',
+                            '1'
                         ],
                         [
                             "eid690",
@@ -5806,24 +5786,34 @@
                             '1'
                         ],
                         [
-                            "eid787",
-                            "left",
-                            1000,
+                            "eid956",
+                            "opacity",
+                            0,
                             0,
                             "linear",
-                            "${answer2q1}",
-                            '563px',
-                            '563px'
+                            "${btn_game_info3q1}",
+                            '1',
+                            '1'
                         ],
                         [
-                            "eid802",
-                            "left",
+                            "eid954",
+                            "opacity",
+                            1750,
+                            0,
+                            "linear",
+                            "${btn_game_info3q1}",
+                            '1',
+                            '0'
+                        ],
+                        [
+                            "eid677",
+                            "opacity",
                             5000,
                             0,
                             "linear",
-                            "${answer2q1}",
-                            '563px',
-                            '563px'
+                            "${btn_game_info3q1}",
+                            '0',
+                            '1'
                         ]
                     ]
                 }
@@ -5844,9 +5834,9 @@
                             fill: ['rgba(0,0,0,0)', 'images/answer.png', '0px', '0px']
                         },
                         {
-                            type: 'ellipse',
-                            borderRadius: ['50%', '50%', '50%', '50%'],
                             rect: ['0px', '0px', '250px', '250px', 'auto', 'auto'],
+                            borderRadius: ['50%', '50%', '50%', '50%'],
+                            type: 'ellipse',
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -5883,9 +5873,9 @@
                             fill: ['rgba(0,0,0,0)', 'images/answer.png', '0px', '0px']
                         },
                         {
-                            type: 'ellipse',
-                            borderRadius: ['50%', '50%', '50%', '50%'],
                             rect: ['0px', '0px', '250px', '250px', 'auto', 'auto'],
+                            borderRadius: ['50%', '50%', '50%', '50%'],
+                            type: 'ellipse',
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -5922,9 +5912,9 @@
                             fill: ['rgba(0,0,0,0)', 'images/answer.png', '0px', '0px']
                         },
                         {
-                            type: 'ellipse',
-                            borderRadius: ['50%', '50%', '50%', '50%'],
                             rect: ['0px', '0px', '250px', '250px', 'auto', 'auto'],
+                            borderRadius: ['50%', '50%', '50%', '50%'],
+                            type: 'ellipse',
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -5955,10 +5945,10 @@
                 content: {
                     dom: [
                         {
-                            rect: ['383px', '132px', '0px', '3px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'Progress_Animation1',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
-                            type: 'rect',
+                            rect: ['383px', '132px', '0px', '3px', 'auto', 'auto'],
                             fill: ['rgba(60,159,193,1.00)']
                         }
                     ],
@@ -6004,17 +5994,17 @@
                             fill: ['rgba(0,0,0,0)', 'images/skip.png', '0px', '0px']
                         },
                         {
-                            font: ['Roboto', [24, 'px'], 'rgba(255,255,255,1.00)', '300', 'none', 'normal', 'break-word', 'normal'],
                             type: 'text',
-                            textStyle: ['', '', '', '', 'none'],
-                            id: 'Text6',
-                            text: '<p style=\"margin: 0px;\">​ПРОПУСНИ</p>',
+                            rect: ['1px', '10px', '150px', '25px', 'auto', 'auto'],
                             align: 'center',
-                            rect: ['1px', '10px', '150px', '25px', 'auto', 'auto']
+                            id: 'Text6',
+                            textStyle: ['', '', '', '', 'none'],
+                            text: '<p style=\"margin: 0px;\">​ПРОПУСНИ</p>',
+                            font: ['Roboto', [24, 'px'], 'rgba(255,255,255,1.00)', '300', 'none', 'normal', 'break-word', 'normal']
                         },
                         {
-                            rect: ['0px', '2px', '7.2%', '42px', 'auto', 'auto'],
                             type: 'rect',
+                            rect: ['0px', '2px', '7.2%', '42px', 'auto', 'auto'],
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -6051,17 +6041,17 @@
                             fill: ['rgba(0,0,0,0)', 'images/check2.png', '0px', '0px']
                         },
                         {
-                            rect: ['5px', '12px', '121px', '27px', 'auto', 'auto'],
                             font: ['Roboto', [20, 'px'], 'rgba(255,255,255,1)', '300', 'none', 'normal', 'break-word', 'normal'],
-                            text: '<p style=\"margin: 0px;\">​ПРОДЪЛЖИ</p>',
-                            id: 'Text7Copy3',
-                            textStyle: ['', '', '', '', 'none'],
+                            type: 'text',
                             align: 'center',
-                            type: 'text'
+                            id: 'Text7Copy3',
+                            text: '<p style=\"margin: 0px;\">​ПРОДЪЛЖИ</p>',
+                            textStyle: ['', '', '', '', 'none'],
+                            rect: ['5px', '12px', '121px', '27px', 'auto', 'auto']
                         },
                         {
-                            rect: ['0px', '0px', '90.3%', '42px', 'auto', 'auto'],
                             type: 'rect',
+                            rect: ['0px', '0px', '90.3%', '42px', 'auto', 'auto'],
                             id: 'hotspotCopy3',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -6098,17 +6088,17 @@
                             fill: ['rgba(0,0,0,0)', 'images/check2.png', '0px', '0px']
                         },
                         {
-                            rect: ['5px', '12px', '121px', '27px', 'auto', 'auto'],
                             font: ['Roboto', [20, 'px'], 'rgba(255,255,255,1)', '300', 'none', 'normal', 'break-word', 'normal'],
-                            text: '<p style=\"margin: 0px;\">​ПРОДЪЛЖИ</p>',
-                            id: 'Text7Copy',
-                            textStyle: ['', '', '', '', 'none'],
+                            type: 'text',
                             align: 'center',
-                            type: 'text'
+                            id: 'Text7Copy',
+                            text: '<p style=\"margin: 0px;\">​ПРОДЪЛЖИ</p>',
+                            textStyle: ['', '', '', '', 'none'],
+                            rect: ['5px', '12px', '121px', '27px', 'auto', 'auto']
                         },
                         {
-                            rect: ['0px', '0px', '90.3%', '42px', 'auto', 'auto'],
                             type: 'rect',
+                            rect: ['0px', '0px', '90.3%', '42px', 'auto', 'auto'],
                             id: 'hotspotCopy4',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -6145,8 +6135,8 @@
                             fill: ['rgba(0,0,0,0)', 'images/facebook.png', '0px', '0px']
                         },
                         {
-                            type: 'rect',
                             rect: ['0px', '0px', '100%', '50px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspot',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -6183,10 +6173,10 @@
                             fill: ['rgba(0,0,0,0)', 'images/mail.png', '0px', '0px']
                         },
                         {
-                            type: 'group',
+                            rect: ['-128', '-58', '176', '52', 'auto', 'auto'],
                             id: 'Group',
                             opacity: '0',
-                            rect: ['-128', '-58', '176', '52', 'auto', 'auto'],
+                            type: 'group',
                             c: [
                             {
                                 id: 'info-dialog-game',
@@ -6195,18 +6185,18 @@
                                 fill: ['rgba(0,0,0,0)', 'images/info-dialog-game.png', '0px', '0px']
                             },
                             {
-                                font: ['Roboto', [24, 'px'], 'rgba(52,73,94,1)', '400', 'none', 'normal', 'break-word', 'normal'],
                                 type: 'text',
-                                align: 'center',
+                                rect: ['0px', '2px', '176px', '50px', 'auto', 'auto'],
+                                text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">cj9808@abv.bg</span></p>',
                                 id: 'Text2',
                                 textStyle: ['', '', '', '', 'none'],
-                                text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">cj9808@abv.bg</span></p>',
-                                rect: ['0px', '2px', '176px', '50px', 'auto', 'auto']
+                                align: 'center',
+                                font: ['Roboto', [24, 'px'], 'rgba(52,73,94,1)', '400', 'none', 'normal', 'break-word', 'normal']
                             }]
                         },
                         {
-                            type: 'rect',
                             rect: ['0px', '0px', '100%', '50px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspotCopy2',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -6265,10 +6255,10 @@
                             fill: ['rgba(0,0,0,0)', 'images/skype.png', '0px', '0px']
                         },
                         {
-                            type: 'group',
+                            rect: ['-125', '-57', '176', '52', 'auto', 'auto'],
                             id: 'Group2',
                             opacity: '0',
-                            rect: ['-125', '-57', '176', '52', 'auto', 'auto'],
+                            type: 'group',
                             c: [
                             {
                                 id: 'info-dialog-gameCopy',
@@ -6277,18 +6267,18 @@
                                 fill: ['rgba(0,0,0,0)', 'images/info-dialog-game.png', '0px', '0px']
                             },
                             {
-                                font: ['Roboto', [24, 'px'], 'rgba(52,73,94,1)', '400', 'none', 'normal', 'break-word', 'normal'],
                                 type: 'text',
-                                align: 'center',
+                                rect: ['0px', '2px', '176px', '50px', 'auto', 'auto'],
+                                text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">martin9808</span></p>',
                                 id: 'Text2Copy',
                                 textStyle: ['', '', '', '', 'none'],
-                                text: '<p style=\"margin: 0px;\">​<span style=\"color: rgb(255, 255, 255);\">martin9808</span></p>',
-                                rect: ['0px', '2px', '176px', '50px', 'auto', 'auto']
+                                align: 'center',
+                                font: ['Roboto', [24, 'px'], 'rgba(52,73,94,1)', '400', 'none', 'normal', 'break-word', 'normal']
                             }]
                         },
                         {
-                            type: 'rect',
                             rect: ['0px', '0px', '100%', '50px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hotspotCopy5',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
                             cursor: 'pointer',
@@ -6341,9 +6331,9 @@
                 content: {
                     dom: [
                         {
-                            type: 'image',
-                            id: 'logo22',
                             rect: ['0px', '-1px', '293px', '38px', 'auto', 'auto'],
+                            id: 'logo22',
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/logo22.png', '0px', '0px']
                         }
                     ],
@@ -6371,20 +6361,20 @@
                 content: {
                     dom: [
                         {
-                            font: ['Roboto', [25, 'px'], 'rgba(255,255,255,1)', '300', 'none', 'normal', 'break-word', 'normal'],
                             type: 'text',
-                            text: '<p style=\"margin: 0px;\">​назад</p>',
-                            id: 'Text2',
-                            textStyle: ['', '', '', '', 'none'],
+                            rect: ['0px', '0px', '162px', '50px', 'auto', 'auto'],
                             align: 'center',
-                            rect: ['0px', '0px', '162px', '50px', 'auto', 'auto']
+                            id: 'Text2',
+                            text: '<p style=\"margin: 0px;\">​назад</p>',
+                            textStyle: ['', '', '', '', 'none'],
+                            font: ['Roboto', [25, 'px'], 'rgba(255,255,255,1)', '300', 'none', 'normal', 'break-word', 'normal']
                         },
                         {
-                            transform: [[], [], [], ['0.56842', '0.49066']],
+                            rect: ['-61px', '-20px', '285', '70', 'auto', 'auto'],
                             id: 'hotspotCopy3',
                             symbolName: 'hotspot',
-                            rect: ['-61px', '-20px', '285', '70', 'auto', 'auto'],
-                            type: 'rect'
+                            type: 'rect',
+                            transform: [[], [], [], ['0.56842', '0.49066']]
                         }
                     ],
                     style: {
@@ -6411,20 +6401,20 @@
                 content: {
                     dom: [
                         {
-                            rect: ['0px', '0px', '257px', '38px', 'auto', 'auto'],
                             font: ['Roboto', [22, 'px'], 'rgba(54,74,95,1.00)', '600', 'none', 'normal', 'break-word', 'normal'],
-                            text: '<p style=\"margin: 0px; text-align: center;\">​За проекта</p>',
-                            id: 'TextCopy2',
-                            textStyle: ['', '', '', '', 'none'],
+                            type: 'text',
                             align: 'center',
-                            type: 'text'
+                            id: 'TextCopy2',
+                            text: '<p style=\"margin: 0px; text-align: center;\">​За проекта</p>',
+                            textStyle: ['', '', '', '', 'none'],
+                            rect: ['0px', '0px', '257px', '38px', 'auto', 'auto']
                         },
                         {
-                            type: 'rect',
+                            transform: [[], [], [], ['0.90175', '0.49066']],
                             id: 'hotspot',
                             symbolName: 'hotspot',
-                            transform: [[], [], [], ['0.90175', '0.49066']],
-                            rect: ['-8px', '-30px', '285', '70', 'auto', 'auto']
+                            rect: ['-8px', '-30px', '285', '70', 'auto', 'auto'],
+                            type: 'rect'
                         }
                     ],
                     style: {
@@ -6451,20 +6441,20 @@
                 content: {
                     dom: [
                         {
-                            rect: ['0px', '0px', '257px', '38px', 'auto', 'auto'],
                             font: ['Roboto', [22, 'px'], 'rgba(54,74,95,1.00)', '600', 'none', 'normal', 'break-word', 'normal'],
-                            text: '<p style=\"margin: 0px; text-align: center;\">​Играта</p>',
-                            id: 'TextCopy3',
-                            textStyle: ['', '', '', '', 'none'],
+                            type: 'text',
                             align: 'center',
-                            type: 'text'
+                            id: 'TextCopy3',
+                            text: '<p style=\"margin: 0px; text-align: center;\">​Играта</p>',
+                            textStyle: ['', '', '', '', 'none'],
+                            rect: ['0px', '0px', '257px', '38px', 'auto', 'auto']
                         },
                         {
-                            type: 'rect',
+                            transform: [[], [], [], ['0.90175', '0.49066']],
                             id: 'hotspotCopy',
                             symbolName: 'hotspot',
-                            transform: [[], [], [], ['0.90175', '0.49066']],
-                            rect: ['-13px', '-21px', '285', '70', 'auto', 'auto']
+                            rect: ['-13px', '-21px', '285', '70', 'auto', 'auto'],
+                            type: 'rect'
                         }
                     ],
                     style: {
@@ -6491,20 +6481,20 @@
                 content: {
                     dom: [
                         {
-                            rect: ['0px', '0px', '257px', '38px', 'auto', 'auto'],
                             font: ['Roboto', [22, 'px'], 'rgba(54,74,95,1.00)', '600', 'none', 'normal', 'break-word', 'normal'],
-                            text: '<p style=\"margin: 0px; text-align: center;\">​За мен</p>',
-                            id: 'TextCopy4',
-                            textStyle: ['', '', '', '', 'none'],
+                            type: 'text',
                             align: 'center',
-                            type: 'text'
+                            id: 'TextCopy4',
+                            text: '<p style=\"margin: 0px; text-align: center;\">​За мен</p>',
+                            textStyle: ['', '', '', '', 'none'],
+                            rect: ['0px', '0px', '257px', '38px', 'auto', 'auto']
                         },
                         {
-                            type: 'rect',
+                            transform: [[], [], [], ['0.90175', '0.49066']],
                             id: 'hotspotCopy2',
                             symbolName: 'hotspot',
-                            transform: [[], [], [], ['0.90175', '0.49066']],
-                            rect: ['-13px', '-16px', '285', '70', 'auto', 'auto']
+                            rect: ['-13px', '-16px', '285', '70', 'auto', 'auto'],
+                            type: 'rect'
                         }
                     ],
                     style: {
@@ -6531,48 +6521,48 @@
                 content: {
                     dom: [
                         {
-                            type: 'image',
+                            rect: ['0px', '177px', '257px', '329px', 'auto', 'auto'],
                             id: 'image3_gallery4',
                             opacity: '1',
-                            rect: ['0px', '177px', '257px', '329px', 'auto', 'auto'],
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/image3_gallery_help.png', '0px', '0px']
                         },
                         {
-                            type: 'image',
+                            rect: ['0px', '177px', '257px', '329px', 'auto', 'auto'],
                             id: 'image2_gallery4',
                             opacity: '1',
-                            rect: ['0px', '177px', '257px', '329px', 'auto', 'auto'],
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/image2_gallery_help.png', '0px', '0px']
                         },
                         {
-                            type: 'image',
+                            rect: ['0px', '177px', '257px', '329px', 'auto', 'auto'],
                             id: 'image1_gallery5',
                             opacity: '1',
-                            rect: ['0px', '177px', '257px', '329px', 'auto', 'auto'],
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/image1_gallery_help.png', '0px', '0px']
                         },
                         {
-                            type: 'ellipse',
-                            borderRadius: ['50%', '50%', '50%', '50%'],
                             rect: ['152px', '519px', '13px', '13px', 'auto', 'auto'],
+                            borderRadius: ['50%', '50%', '50%', '50%'],
+                            type: 'ellipse',
                             id: 'EllipseCopy2',
                             stroke: [0, 'rgba(0,0,0,1)', 'none'],
                             cursor: 'pointer',
                             fill: ['rgba(79,193,233,1.00)']
                         },
                         {
-                            type: 'ellipse',
-                            borderRadius: ['50%', '50%', '50%', '50%'],
                             rect: ['122px', '519px', '13px', '13px', 'auto', 'auto'],
+                            borderRadius: ['50%', '50%', '50%', '50%'],
+                            type: 'ellipse',
                             id: 'EllipseCopy',
                             stroke: [0, 'rgba(0,0,0,1)', 'none'],
                             cursor: 'pointer',
                             fill: ['rgba(79,193,233,1.00)']
                         },
                         {
-                            type: 'ellipse',
-                            borderRadius: ['50%', '50%', '50%', '50%'],
                             rect: ['92px', '519px', '13px', '13px', 'auto', 'auto'],
+                            borderRadius: ['50%', '50%', '50%', '50%'],
+                            type: 'ellipse',
                             id: 'Ellipse',
                             stroke: [0, 'rgba(0,0,0,1)', 'none'],
                             cursor: 'pointer',
@@ -6755,16 +6745,6 @@
                             '1'
                         ],
                         [
-                            "eid1311",
-                            "top",
-                            0,
-                            0,
-                            "linear",
-                            "${EllipseCopy2}",
-                            '519px',
-                            '519px'
-                        ],
-                        [
                             "eid1314",
                             "opacity",
                             13000,
@@ -6773,7 +6753,90 @@
                             "${image3_gallery4}",
                             '1',
                             '0'
+                        ],
+                        [
+                            "eid1311",
+                            "top",
+                            0,
+                            0,
+                            "linear",
+                            "${EllipseCopy2}",
+                            '519px',
+                            '519px'
                         ]
+                    ]
+                }
+            },
+            "button_download": {
+                version: "6.0.0",
+                minimumCompatibleVersion: "5.0.0",
+                build: "6.0.0.400",
+                scaleToFit: "none",
+                centerStage: "none",
+                resizeInstances: false,
+                content: {
+                    dom: [
+                        {
+                            font: ['Roboto', [22, 'px'], 'rgba(54,74,95,1)', '400', 'none', 'normal', 'break-word', 'normal'],
+                            type: 'text',
+                            align: 'justify',
+                            id: 'Text',
+                            textStyle: ['', '', '', '', 'none'],
+                            text: '<p style=\"margin: 0px;\">​тук</p>',
+                            rect: ['9px', '2px', '59px', '38px', 'auto', 'auto']
+                        },
+                        {
+                            type: 'rect',
+                            id: 'Rectangle',
+                            stroke: [0, 'rgba(0,0,0,1)', 'none'],
+                            rect: ['0px', '0px', '59px', '38px', 'auto', 'auto'],
+                            fill: ['rgba(192,192,192,0.00)']
+                        }
+                    ],
+                    style: {
+                        '${symbolSelector}': {
+                            rect: [null, null, '59px', '38px']
+                        }
+                    }
+                },
+                timeline: {
+                    duration: 0,
+                    autoPlay: false,
+                    data: [
+
+                    ]
+                }
+            },
+            "download_button": {
+                version: "6.0.0",
+                minimumCompatibleVersion: "5.0.0",
+                build: "6.0.0.400",
+                scaleToFit: "none",
+                centerStage: "none",
+                resizeInstances: false,
+                content: {
+                    dom: [
+                        {
+                            font: ['Roboto', [22, 'px'], 'rgba(54,74,95,1)', '400', 'none', 'normal', 'break-word', 'normal'],
+                            type: 'text',
+                            align: 'justify',
+                            id: 'Text2',
+                            textStyle: ['', '', '', '', 'none'],
+                            text: '<p style=\"margin: 0px;\">​тук</p>',
+                            rect: ['0px', '0px', '40px', '31px', 'auto', 'auto']
+                        }
+                    ],
+                    style: {
+                        '${symbolSelector}': {
+                            rect: [null, null, '40px', '31px']
+                        }
+                    }
+                },
+                timeline: {
+                    duration: 0,
+                    autoPlay: false,
+                    data: [
+
                     ]
                 }
             }

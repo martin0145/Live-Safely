@@ -193,8 +193,8 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
       });
       //Edge binding end
 
-      Symbol.bindElementAction(compId, symbolName, "${link}", "click", function(sym, e) {
-         window.open("index.html", "_self");
+      Symbol.bindElementAction(compId, symbolName, "${download_button}", "click", function(sym, e) {
+         window.open("https://github.com/martin0145/Live-Safely", "_blank");
 
       });
       //Edge binding end
@@ -986,5 +986,21 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
 
    })("help_gallery");
    //Edge symbol end:'help_gallery'
+
+   //=========================================================
+   
+   //Edge symbol: 'button_download'
+   (function(symbolName) {   
+   
+   })("button_download");
+   //Edge symbol end:'button_download'
+
+   //=========================================================
+   
+   //Edge symbol: 'download_button'
+   (function(symbolName) {   
+   
+   })("download_button");
+   //Edge symbol end:'download_button'
 
 })(window.jQuery || AdobeEdge.$, AdobeEdge, "EDGE-453454929");

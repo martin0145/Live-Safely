@@ -51,8 +51,8 @@
                         {
                             id: 'TextCopy',
                             type: 'text',
-                            rect: ['436px', '443px', '470px', '121px', 'auto', 'auto'],
-                            text: "<p style=\"margin: 0px; text-align: justify;\">&nbsp; &nbsp;Казвам се Ангел Стоянов Ангелов и съм старши учител по информационни технологии в училище СОУ „Сава Доброплодни“ гр. Шумен.</p>",
+                            rect: ['436px', '443px', '470px', '148px', 'auto', 'auto'],
+                            text: "<p style=\"margin: 0px; text-align: justify;\">&nbsp; &nbsp;Казвам се Ангел Стоянов Ангелов и съм старши учител по информационни технологии в училище СУ „Сава Доброплодни“ гр. Шумен.</p>",
                             align: "center",
                             font: ['Roboto', [22, "px"], "rgba(54,74,95,1.00)", "200", "none", "normal", "break-word", "normal"],
                             textStyle: ["", "", "", "", "none"]
